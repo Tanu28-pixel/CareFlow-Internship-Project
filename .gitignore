@@ -1,0 +1,18 @@
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# dbt logs and generated files
+logs/
+careflow_dbt/logs/
+careflow_dbt/target/
+careflow_dbt/dbt_packages/
+
+# Local credentials and environment variables
+.env
+*.key
+*.json
