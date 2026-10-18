@@ -1,0 +1,21 @@
+
+version: 2
+
+models:
+  - name: stg_event_logs
+    description: "Cleaned staging view of CareFlow hospital event logs."
+    columns:
+      - name: case_id
+        description: "Unique identifier for a patient case."
+        data_tests:
+          - not_null
+
+      - name: activity_name
+        description: "Hospital activity recorded for the patient."
+        data_tests:
+          - not_null
+
+      - name: event_timestamp
+        description: "Timestamp when the activity occurred."
+        data_tests:
+          - not_null
