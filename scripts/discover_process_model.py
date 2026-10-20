@@ -39,3 +39,23 @@ print(f"Unique activities: {df['concept:name'].nunique()}")
 event_log = pm4py.convert_to_event_log(df)
 
 print(f"PM4Py event log created: {len(event_log)} cases")
+
+# Discover the process directly from the event log
+process_tree = pm4py.discover_process_tree_inductive(event_log)
+
+print("\nProcess model discovered successfully!")
+print("Model type:", type(process_tree).__name__)
+
+# Export the discovered process model
+output_dir = project_dir / "outputs"
+output_dir.mkdir(exist_ok=True)
+
+output_file = output_dir / "careflow_process_model.pnml"
+pm4py.write_pnml(
+    pm4py.convert_to_petri_net(process_tree)[0],
+    pm4py.convert_to_petri_net(process_tree)[1],
+    pm4py.convert_to_petri_net(process_tree)[2],
+    str(output_file),
+)
+
+print("Process model saved to:", output_file)
