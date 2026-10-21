@@ -1,0 +1,11 @@
+Activity_Name,Next_Activity,Transition_Count,Average_Wait_Minutes,Median_Wait_Minutes,Maximum_Wait_Minutes
+X-Ray,Treatment,36,69.22222222222223,66.0,120.0
+Triage,Doctor Consultation,256,68.78125,71.0,120.0
+Registration,Triage,200,67.755,73.5,120.0
+Treatment,Discharge,200,66.03,68.0,120.0
+Doctor Consultation,Treatment,46,65.71739130434783,69.5,120.0
+X-Ray,Triage,56,65.07142857142857,58.5,119.0
+Doctor Consultation,Lab Test,75,64.30666666666667,66.0,119.0
+Lab Test,Treatment,118,64.0,66.0,120.0
+X-Ray,Lab Test,43,61.58139534883721,53.0,119.0
+Doctor Consultation,X-Ray,135,61.20740740740741,59.0,120.0
