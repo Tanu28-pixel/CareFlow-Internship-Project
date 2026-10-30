@@ -1,0 +1,7 @@
+Activity_Sequence,Patient_Count,Average_Activities,Average_Duration_Minutes
+Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,43,7.0,399.2325581395349
+Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,41,6.0,313.219512195122
+Registration -> Triage -> Doctor Consultation -> X-Ray -> Treatment -> Discharge,36,6.0,347.77777777777777
+Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,34,9.0,520.0588235294117
+Registration -> Triage -> Doctor Consultation -> Treatment -> Discharge,24,5.0,261.0833333333333
+Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Treatment -> Discharge,22,8.0,469.6818181818182

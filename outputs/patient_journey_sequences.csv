@@ -1,0 +1,201 @@
+Case_ID,Activity_Sequence,First_Activity,Last_Activity,Total_Activities,Journey_Start,Journey_End,Journey_Duration_Minutes
+P001,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,8,2026-01-30 10:25:00,2026-01-30 17:38:00,433.0
+P002,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-05 06:57:00,2026-01-05 12:26:00,329.0
+P003,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-30 21:50:00,2026-01-31 04:48:00,418.0
+P004,Registration -> Triage -> Doctor Consultation -> X-Ray -> Treatment -> Discharge,Registration,Discharge,6,2026-01-20 13:36:00,2026-01-20 16:33:00,177.0
+P005,Registration -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,5,2026-01-16 23:41:00,2026-01-17 02:42:00,181.0
+P006,Registration -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,5,2026-01-14 16:13:00,2026-01-14 20:08:00,235.0
+P007,Registration -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,5,2026-01-11 16:55:00,2026-01-11 21:00:00,245.0
+P008,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-30 06:20:00,2026-01-30 13:46:00,446.0
+P009,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,8,2026-01-30 05:33:00,2026-01-30 13:24:00,471.0
+P010,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-16 02:12:00,2026-01-16 06:54:00,282.0
+P011,Registration -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,5,2026-01-10 22:26:00,2026-01-11 02:49:00,263.0
+P012,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,9,2026-01-22 05:11:00,2026-01-22 15:55:00,644.0
+P013,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,8,2026-01-17 19:23:00,2026-01-18 02:38:00,435.0
+P014,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,8,2026-01-29 21:20:00,2026-01-30 04:53:00,453.0
+P015,Registration -> Triage -> Doctor Consultation -> X-Ray -> Treatment -> Discharge,Registration,Discharge,6,2026-01-26 12:16:00,2026-01-26 19:29:00,433.0
+P016,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,9,2026-01-16 19:33:00,2026-01-17 04:31:00,538.0
+P017,Registration -> Triage -> Doctor Consultation -> X-Ray -> Treatment -> Discharge,Registration,Discharge,6,2026-01-06 04:13:00,2026-01-06 09:28:00,315.0
+P018,Registration -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,5,2026-01-25 21:08:00,2026-01-26 00:49:00,221.0
+P019,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-17 20:28:00,2026-01-17 23:27:00,179.0
+P020,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-23 10:49:00,2026-01-23 15:45:00,296.0
+P021,Registration -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,5,2026-01-13 09:30:00,2026-01-13 15:56:00,386.0
+P022,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-15 12:28:00,2026-01-15 16:35:00,247.0
+P023,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,9,2026-01-16 17:16:00,2026-01-16 23:54:00,398.0
+P024,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-02 18:18:00,2026-01-03 01:09:00,411.0
+P025,Registration -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,5,2026-01-27 13:22:00,2026-01-27 16:14:00,172.0
+P026,Registration -> Triage -> Doctor Consultation -> X-Ray -> Treatment -> Discharge,Registration,Discharge,6,2026-01-17 10:59:00,2026-01-17 16:19:00,320.0
+P027,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-16 18:36:00,2026-01-16 23:50:00,314.0
+P028,Registration -> Triage -> Doctor Consultation -> X-Ray -> Treatment -> Discharge,Registration,Discharge,6,2026-01-12 16:51:00,2026-01-12 22:21:00,330.0
+P029,Registration -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,5,2026-01-02 00:07:00,2026-01-02 04:03:00,236.0
+P030,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-19 14:02:00,2026-01-19 21:18:00,436.0
+P031,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-26 15:02:00,2026-01-26 20:40:00,338.0
+P032,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,9,2026-01-15 14:32:00,2026-01-15 23:22:00,530.0
+P033,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-04 10:50:00,2026-01-04 16:08:00,318.0
+P034,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,8,2026-01-29 12:31:00,2026-01-29 20:34:00,483.0
+P035,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,9,2026-01-12 04:42:00,2026-01-12 12:24:00,462.0
+P036,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-26 22:56:00,2026-01-27 02:55:00,239.0
+P037,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-08 12:18:00,2026-01-08 18:47:00,389.0
+P038,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,8,2026-01-26 13:46:00,2026-01-26 19:17:00,331.0
+P039,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-14 03:45:00,2026-01-14 10:24:00,399.0
+P040,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,9,2026-01-03 15:29:00,2026-01-03 21:59:00,390.0
+P041,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-21 10:36:00,2026-01-21 16:31:00,355.0
+P042,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-27 20:15:00,2026-01-28 02:48:00,393.0
+P043,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-12 16:33:00,2026-01-12 23:58:00,445.0
+P044,Registration -> Triage -> Doctor Consultation -> X-Ray -> Treatment -> Discharge,Registration,Discharge,6,2026-01-09 09:23:00,2026-01-09 16:34:00,431.0
+P045,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,8,2026-01-12 15:03:00,2026-01-12 21:00:00,357.0
+P046,Registration -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,5,2026-01-22 06:46:00,2026-01-22 09:45:00,179.0
+P047,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,9,2026-01-16 06:32:00,2026-01-16 17:20:00,648.0
+P048,Registration -> Triage -> Doctor Consultation -> X-Ray -> Treatment -> Discharge,Registration,Discharge,6,2026-01-16 09:42:00,2026-01-16 12:58:00,196.0
+P049,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-21 02:39:00,2026-01-21 07:14:00,275.0
+P050,Registration -> Triage -> Doctor Consultation -> X-Ray -> Treatment -> Discharge,Registration,Discharge,6,2026-01-03 08:28:00,2026-01-03 16:33:00,485.0
+P051,Registration -> Triage -> Doctor Consultation -> X-Ray -> Treatment -> Discharge,Registration,Discharge,6,2026-01-10 07:12:00,2026-01-10 13:55:00,403.0
+P052,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-15 00:01:00,2026-01-15 04:47:00,286.0
+P053,Registration -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,5,2026-01-18 14:07:00,2026-01-18 19:12:00,305.0
+P054,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,9,2026-01-15 03:54:00,2026-01-15 14:06:00,612.0
+P055,Registration -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,5,2026-01-24 14:20:00,2026-01-24 17:31:00,191.0
+P056,Registration -> Triage -> Doctor Consultation -> X-Ray -> Treatment -> Discharge,Registration,Discharge,6,2026-01-30 03:20:00,2026-01-30 08:56:00,336.0
+P057,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,9,2026-01-08 00:56:00,2026-01-08 11:20:00,624.0
+P058,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-10 04:22:00,2026-01-10 11:57:00,455.0
+P059,Registration -> Triage -> Doctor Consultation -> X-Ray -> Treatment -> Discharge,Registration,Discharge,6,2026-01-06 04:25:00,2026-01-06 10:06:00,341.0
+P060,Registration -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,5,2026-01-06 20:33:00,2026-01-07 01:56:00,323.0
+P061,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-29 05:10:00,2026-01-29 11:52:00,402.0
+P062,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,9,2026-01-21 19:35:00,2026-01-22 06:06:00,631.0
+P063,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,9,2026-01-21 08:27:00,2026-01-21 14:07:00,340.0
+P064,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-08 06:54:00,2026-01-08 13:14:00,380.0
+P065,Registration -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,5,2026-01-19 01:24:00,2026-01-19 07:31:00,367.0
+P066,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-01 14:26:00,2026-01-01 23:31:00,545.0
+P067,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-28 18:54:00,2026-01-29 01:22:00,388.0
+P068,Registration -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,5,2026-01-19 17:37:00,2026-01-19 21:37:00,240.0
+P069,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-27 00:27:00,2026-01-27 06:06:00,339.0
+P070,Registration -> Triage -> Doctor Consultation -> X-Ray -> Treatment -> Discharge,Registration,Discharge,6,2026-01-10 23:11:00,2026-01-11 05:23:00,372.0
+P071,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-05 01:27:00,2026-01-05 06:39:00,312.0
+P072,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-03 03:58:00,2026-01-03 07:14:00,196.0
+P073,Registration -> Triage -> Doctor Consultation -> X-Ray -> Treatment -> Discharge,Registration,Discharge,6,2026-01-06 12:56:00,2026-01-06 19:06:00,370.0
+P074,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-06 13:06:00,2026-01-06 19:29:00,383.0
+P075,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,8,2026-01-10 08:37:00,2026-01-10 17:24:00,527.0
+P076,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-28 15:48:00,2026-01-28 20:53:00,305.0
+P077,Registration -> Triage -> Doctor Consultation -> X-Ray -> Treatment -> Discharge,Registration,Discharge,6,2026-01-04 11:19:00,2026-01-04 16:50:00,331.0
+P078,Registration -> Triage -> Doctor Consultation -> X-Ray -> Treatment -> Discharge,Registration,Discharge,6,2026-01-22 06:09:00,2026-01-22 13:05:00,416.0
+P079,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-23 08:06:00,2026-01-23 13:54:00,348.0
+P080,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,9,2026-01-21 20:23:00,2026-01-22 05:32:00,549.0
+P081,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,8,2026-01-23 12:32:00,2026-01-23 19:32:00,420.0
+P082,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,8,2026-01-10 00:41:00,2026-01-10 10:01:00,560.0
+P083,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-23 16:06:00,2026-01-23 23:13:00,427.0
+P084,Registration -> Triage -> Doctor Consultation -> X-Ray -> Treatment -> Discharge,Registration,Discharge,6,2026-01-22 20:55:00,2026-01-23 02:49:00,354.0
+P085,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,9,2026-01-15 06:54:00,2026-01-15 15:44:00,530.0
+P086,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-11 04:20:00,2026-01-11 11:54:00,454.0
+P087,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,9,2026-01-14 19:34:00,2026-01-15 01:45:00,371.0
+P088,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-07 01:55:00,2026-01-07 06:36:00,281.0
+P089,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,9,2026-01-16 20:08:00,2026-01-17 04:28:00,500.0
+P090,Registration -> Triage -> Doctor Consultation -> X-Ray -> Treatment -> Discharge,Registration,Discharge,6,2026-01-29 23:31:00,2026-01-30 03:06:00,215.0
+P091,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-20 06:34:00,2026-01-20 11:49:00,315.0
+P092,Registration -> Triage -> Doctor Consultation -> X-Ray -> Treatment -> Discharge,Registration,Discharge,6,2026-01-28 02:49:00,2026-01-28 08:46:00,357.0
+P093,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,9,2026-01-10 22:29:00,2026-01-11 04:09:00,340.0
+P094,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-28 08:36:00,2026-01-28 16:05:00,449.0
+P095,Registration -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,5,2026-01-13 08:57:00,2026-01-13 12:19:00,202.0
+P096,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,9,2026-01-30 19:23:00,2026-01-31 02:49:00,446.0
+P097,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-27 05:43:00,2026-01-27 12:28:00,405.0
+P098,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,9,2026-01-21 06:08:00,2026-01-21 13:10:00,422.0
+P099,Registration -> Triage -> Doctor Consultation -> X-Ray -> Treatment -> Discharge,Registration,Discharge,6,2026-01-27 12:16:00,2026-01-27 18:20:00,364.0
+P100,Registration -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,5,2026-01-09 07:21:00,2026-01-09 11:54:00,273.0
+P101,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-23 17:05:00,2026-01-23 23:15:00,370.0
+P102,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,8,2026-01-23 21:11:00,2026-01-24 04:45:00,454.0
+P103,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,8,2026-01-16 01:06:00,2026-01-16 10:28:00,562.0
+P104,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,9,2026-01-03 19:12:00,2026-01-04 04:10:00,538.0
+P105,Registration -> Triage -> Doctor Consultation -> X-Ray -> Treatment -> Discharge,Registration,Discharge,6,2026-01-07 07:06:00,2026-01-07 12:33:00,327.0
+P106,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-08 12:59:00,2026-01-08 19:04:00,365.0
+P107,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-08 08:10:00,2026-01-08 14:14:00,364.0
+P108,Registration -> Triage -> Doctor Consultation -> X-Ray -> Treatment -> Discharge,Registration,Discharge,6,2026-01-22 02:55:00,2026-01-22 08:40:00,345.0
+P109,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-20 05:13:00,2026-01-20 10:36:00,323.0
+P110,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-27 17:25:00,2026-01-28 00:47:00,442.0
+P111,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-18 12:00:00,2026-01-18 19:19:00,439.0
+P112,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,8,2026-01-20 00:40:00,2026-01-20 11:30:00,650.0
+P113,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-08 06:08:00,2026-01-08 12:13:00,365.0
+P114,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,9,2026-01-22 03:05:00,2026-01-22 11:31:00,506.0
+P115,Registration -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,5,2026-01-19 10:09:00,2026-01-19 15:14:00,305.0
+P116,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-23 12:58:00,2026-01-23 19:36:00,398.0
+P117,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-05 19:31:00,2026-01-05 22:56:00,205.0
+P118,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,9,2026-01-03 21:17:00,2026-01-04 06:08:00,531.0
+P119,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,8,2026-01-09 07:13:00,2026-01-09 14:43:00,450.0
+P120,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,9,2026-01-30 08:45:00,2026-01-30 16:27:00,462.0
+P121,Registration -> Triage -> Doctor Consultation -> X-Ray -> Treatment -> Discharge,Registration,Discharge,6,2026-01-17 01:26:00,2026-01-17 07:40:00,374.0
+P122,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-18 20:11:00,2026-01-19 01:54:00,343.0
+P123,Registration -> Triage -> Doctor Consultation -> X-Ray -> Treatment -> Discharge,Registration,Discharge,6,2026-01-31 06:57:00,2026-01-31 13:59:00,422.0
+P124,Registration -> Triage -> Doctor Consultation -> X-Ray -> Treatment -> Discharge,Registration,Discharge,6,2026-01-14 08:36:00,2026-01-14 13:30:00,294.0
+P125,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-31 08:00:00,2026-01-31 15:02:00,422.0
+P126,Registration -> Triage -> Doctor Consultation -> X-Ray -> Treatment -> Discharge,Registration,Discharge,6,2026-01-27 17:02:00,2026-01-27 21:48:00,286.0
+P127,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-25 21:10:00,2026-01-26 04:09:00,419.0
+P128,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-14 18:22:00,2026-01-15 01:09:00,407.0
+P129,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-19 10:04:00,2026-01-19 15:07:00,303.0
+P130,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-22 00:44:00,2026-01-22 06:28:00,344.0
+P131,Registration -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,5,2026-01-11 23:23:00,2026-01-12 03:52:00,269.0
+P132,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-30 06:01:00,2026-01-30 08:23:00,142.0
+P133,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,9,2026-01-23 18:04:00,2026-01-24 03:52:00,588.0
+P134,Registration -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,5,2026-01-20 09:47:00,2026-01-20 14:50:00,303.0
+P135,Registration -> Triage -> Doctor Consultation -> X-Ray -> Treatment -> Discharge,Registration,Discharge,6,2026-01-19 21:46:00,2026-01-20 03:14:00,328.0
+P136,Registration -> Triage -> Doctor Consultation -> X-Ray -> Treatment -> Discharge,Registration,Discharge,6,2026-01-05 20:31:00,2026-01-06 01:00:00,269.0
+P137,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-06 21:25:00,2026-01-07 02:43:00,318.0
+P138,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,9,2026-01-16 12:16:00,2026-01-16 21:36:00,560.0
+P139,Registration -> Triage -> Doctor Consultation -> X-Ray -> Treatment -> Discharge,Registration,Discharge,6,2026-01-11 22:29:00,2026-01-12 02:17:00,228.0
+P140,Registration -> Triage -> Doctor Consultation -> X-Ray -> Treatment -> Discharge,Registration,Discharge,6,2026-01-12 17:46:00,2026-01-12 22:59:00,313.0
+P141,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-28 03:11:00,2026-01-28 09:42:00,391.0
+P142,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-21 17:38:00,2026-01-21 22:56:00,318.0
+P143,Registration -> Triage -> Doctor Consultation -> X-Ray -> Treatment -> Discharge,Registration,Discharge,6,2026-01-31 07:41:00,2026-01-31 13:12:00,331.0
+P144,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-06 05:55:00,2026-01-06 09:19:00,204.0
+P145,Registration -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,5,2026-01-13 20:23:00,2026-01-14 00:51:00,268.0
+P146,Registration -> Triage -> Doctor Consultation -> X-Ray -> Treatment -> Discharge,Registration,Discharge,6,2026-01-24 08:11:00,2026-01-24 16:24:00,493.0
+P147,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-11 02:51:00,2026-01-11 09:41:00,410.0
+P148,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-15 13:23:00,2026-01-15 17:18:00,235.0
+P149,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,9,2026-01-05 05:14:00,2026-01-05 14:38:00,564.0
+P150,Registration -> Triage -> Doctor Consultation -> X-Ray -> Treatment -> Discharge,Registration,Discharge,6,2026-01-16 08:03:00,2026-01-16 13:37:00,334.0
+P151,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-15 13:16:00,2026-01-15 19:00:00,344.0
+P152,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-26 15:35:00,2026-01-26 23:39:00,484.0
+P153,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-29 15:05:00,2026-01-29 21:10:00,365.0
+P154,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-13 18:29:00,2026-01-13 23:37:00,308.0
+P155,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-07 18:57:00,2026-01-08 00:00:00,303.0
+P156,Registration -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,5,2026-01-08 11:55:00,2026-01-08 15:19:00,204.0
+P157,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-08 11:56:00,2026-01-08 19:25:00,449.0
+P158,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,9,2026-01-13 18:22:00,2026-01-14 03:20:00,538.0
+P159,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,9,2026-01-15 08:52:00,2026-01-15 15:01:00,369.0
+P160,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,9,2026-01-12 23:05:00,2026-01-13 08:02:00,537.0
+P161,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-24 02:25:00,2026-01-24 08:29:00,364.0
+P162,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-22 06:10:00,2026-01-22 12:48:00,398.0
+P163,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-06 13:48:00,2026-01-06 20:55:00,427.0
+P164,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-21 05:00:00,2026-01-21 11:04:00,364.0
+P165,Registration -> Triage -> Doctor Consultation -> X-Ray -> Treatment -> Discharge,Registration,Discharge,6,2026-01-16 11:47:00,2026-01-16 17:36:00,349.0
+P166,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-30 16:59:00,2026-01-30 23:36:00,397.0
+P167,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,8,2026-01-04 18:18:00,2026-01-05 04:06:00,588.0
+P168,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-27 00:34:00,2026-01-27 04:47:00,253.0
+P169,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-21 11:00:00,2026-01-21 15:26:00,266.0
+P170,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,8,2026-01-03 01:04:00,2026-01-03 10:09:00,545.0
+P171,Registration -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,5,2026-01-18 19:57:00,2026-01-19 00:35:00,278.0
+P172,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-09 21:36:00,2026-01-10 04:06:00,390.0
+P173,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-05 04:06:00,2026-01-05 10:49:00,403.0
+P174,Registration -> Triage -> Doctor Consultation -> X-Ray -> Treatment -> Discharge,Registration,Discharge,6,2026-01-18 07:15:00,2026-01-18 13:54:00,399.0
+P175,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,9,2026-01-16 13:31:00,2026-01-17 00:16:00,645.0
+P176,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,8,2026-01-16 12:07:00,2026-01-16 20:02:00,475.0
+P177,Registration -> Triage -> Doctor Consultation -> X-Ray -> Treatment -> Discharge,Registration,Discharge,6,2026-01-05 04:32:00,2026-01-05 12:02:00,450.0
+P178,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,8,2026-01-25 06:57:00,2026-01-25 12:15:00,318.0
+P179,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,8,2026-01-23 11:08:00,2026-01-23 18:07:00,419.0
+P180,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-25 21:34:00,2026-01-26 03:36:00,362.0
+P181,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,8,2026-01-08 08:29:00,2026-01-08 17:13:00,524.0
+P182,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-17 21:54:00,2026-01-18 05:47:00,473.0
+P183,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-12 05:14:00,2026-01-12 11:40:00,386.0
+P184,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-22 08:16:00,2026-01-22 14:10:00,354.0
+P185,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-07 15:10:00,2026-01-07 22:45:00,455.0
+P186,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,8,2026-01-07 00:10:00,2026-01-07 07:06:00,416.0
+P187,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-21 20:45:00,2026-01-22 01:35:00,290.0
+P188,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,9,2026-01-18 09:30:00,2026-01-18 18:41:00,551.0
+P189,Registration -> Triage -> Doctor Consultation -> X-Ray -> Treatment -> Discharge,Registration,Discharge,6,2026-01-14 09:20:00,2026-01-14 16:32:00,432.0
+P190,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,9,2026-01-04 22:32:00,2026-01-05 08:05:00,573.0
+P191,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-12 03:33:00,2026-01-12 10:40:00,427.0
+P192,Registration -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,6,2026-01-28 11:47:00,2026-01-28 15:57:00,250.0
+P193,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,9,2026-01-17 09:22:00,2026-01-17 17:59:00,517.0
+P194,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-24 10:27:00,2026-01-24 16:33:00,366.0
+P195,Registration -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,5,2026-01-04 09:47:00,2026-01-04 16:29:00,402.0
+P196,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,9,2026-01-07 09:43:00,2026-01-07 21:51:00,728.0
+P197,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Lab Test -> Treatment -> Discharge,Registration,Discharge,9,2026-01-30 02:01:00,2026-01-30 10:21:00,500.0
+P198,Registration -> Triage -> Doctor Consultation -> X-Ray -> Lab Test -> Treatment -> Discharge,Registration,Discharge,7,2026-01-03 05:46:00,2026-01-03 12:51:00,425.0
+P199,Registration -> Triage -> Doctor Consultation -> X-Ray -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,8,2026-01-10 00:44:00,2026-01-10 08:26:00,462.0
+P200,Registration -> Triage -> Doctor Consultation -> Treatment -> Discharge,Registration,Discharge,5,2026-01-21 05:16:00,2026-01-21 08:54:00,218.0
