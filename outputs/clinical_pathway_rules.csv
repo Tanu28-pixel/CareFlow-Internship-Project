@@ -1,0 +1,8 @@
+Activity_Name,Activity_Type,Sequence_Order
+Registration,Required,1
+Triage,Required,2
+Doctor Consultation,Required,3
+Treatment,Required,4
+Discharge,Required,5
+X-Ray,Optional,Between Consultation and Treatment
+Lab Test,Optional,Between Consultation and Treatment
