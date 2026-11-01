@@ -1,0 +1,201 @@
+Case_ID,Conformance_Status,Missing_Activities,Repeated_Activities,Unexpected_Activities,Optional_Activities_Position_Valid
+P001,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P002,Conforming,No deviation,No deviation,No deviation,True
+P003,Conforming,No deviation,No deviation,No deviation,True
+P004,Conforming,No deviation,No deviation,No deviation,True
+P005,Conforming,No deviation,No deviation,No deviation,True
+P006,Conforming,No deviation,No deviation,No deviation,True
+P007,Conforming,No deviation,No deviation,No deviation,True
+P008,Conforming,No deviation,No deviation,No deviation,True
+P009,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P010,Conforming,No deviation,No deviation,No deviation,True
+P011,Conforming,No deviation,No deviation,No deviation,True
+P012,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P013,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P014,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P015,Conforming,No deviation,No deviation,No deviation,True
+P016,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P017,Conforming,No deviation,No deviation,No deviation,True
+P018,Conforming,No deviation,No deviation,No deviation,True
+P019,Conforming,No deviation,No deviation,No deviation,True
+P020,Conforming,No deviation,No deviation,No deviation,True
+P021,Conforming,No deviation,No deviation,No deviation,True
+P022,Conforming,No deviation,No deviation,No deviation,True
+P023,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P024,Conforming,No deviation,No deviation,No deviation,True
+P025,Conforming,No deviation,No deviation,No deviation,True
+P026,Conforming,No deviation,No deviation,No deviation,True
+P027,Conforming,No deviation,No deviation,No deviation,True
+P028,Conforming,No deviation,No deviation,No deviation,True
+P029,Conforming,No deviation,No deviation,No deviation,True
+P030,Conforming,No deviation,No deviation,No deviation,True
+P031,Conforming,No deviation,No deviation,No deviation,True
+P032,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P033,Conforming,No deviation,No deviation,No deviation,True
+P034,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P035,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P036,Conforming,No deviation,No deviation,No deviation,True
+P037,Conforming,No deviation,No deviation,No deviation,True
+P038,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P039,Conforming,No deviation,No deviation,No deviation,True
+P040,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P041,Conforming,No deviation,No deviation,No deviation,True
+P042,Conforming,No deviation,No deviation,No deviation,True
+P043,Conforming,No deviation,No deviation,No deviation,True
+P044,Conforming,No deviation,No deviation,No deviation,True
+P045,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P046,Conforming,No deviation,No deviation,No deviation,True
+P047,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P048,Conforming,No deviation,No deviation,No deviation,True
+P049,Conforming,No deviation,No deviation,No deviation,True
+P050,Conforming,No deviation,No deviation,No deviation,True
+P051,Conforming,No deviation,No deviation,No deviation,True
+P052,Conforming,No deviation,No deviation,No deviation,True
+P053,Conforming,No deviation,No deviation,No deviation,True
+P054,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P055,Conforming,No deviation,No deviation,No deviation,True
+P056,Conforming,No deviation,No deviation,No deviation,True
+P057,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P058,Conforming,No deviation,No deviation,No deviation,True
+P059,Conforming,No deviation,No deviation,No deviation,True
+P060,Conforming,No deviation,No deviation,No deviation,True
+P061,Conforming,No deviation,No deviation,No deviation,True
+P062,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P063,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P064,Conforming,No deviation,No deviation,No deviation,True
+P065,Conforming,No deviation,No deviation,No deviation,True
+P066,Conforming,No deviation,No deviation,No deviation,True
+P067,Conforming,No deviation,No deviation,No deviation,True
+P068,Conforming,No deviation,No deviation,No deviation,True
+P069,Conforming,No deviation,No deviation,No deviation,True
+P070,Conforming,No deviation,No deviation,No deviation,True
+P071,Conforming,No deviation,No deviation,No deviation,True
+P072,Conforming,No deviation,No deviation,No deviation,True
+P073,Conforming,No deviation,No deviation,No deviation,True
+P074,Conforming,No deviation,No deviation,No deviation,True
+P075,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P076,Conforming,No deviation,No deviation,No deviation,True
+P077,Conforming,No deviation,No deviation,No deviation,True
+P078,Conforming,No deviation,No deviation,No deviation,True
+P079,Conforming,No deviation,No deviation,No deviation,True
+P080,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P081,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P082,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P083,Conforming,No deviation,No deviation,No deviation,True
+P084,Conforming,No deviation,No deviation,No deviation,True
+P085,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P086,Conforming,No deviation,No deviation,No deviation,True
+P087,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P088,Conforming,No deviation,No deviation,No deviation,True
+P089,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P090,Conforming,No deviation,No deviation,No deviation,True
+P091,Conforming,No deviation,No deviation,No deviation,True
+P092,Conforming,No deviation,No deviation,No deviation,True
+P093,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P094,Conforming,No deviation,No deviation,No deviation,True
+P095,Conforming,No deviation,No deviation,No deviation,True
+P096,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P097,Conforming,No deviation,No deviation,No deviation,True
+P098,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P099,Conforming,No deviation,No deviation,No deviation,True
+P100,Conforming,No deviation,No deviation,No deviation,True
+P101,Conforming,No deviation,No deviation,No deviation,True
+P102,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P103,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P104,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P105,Conforming,No deviation,No deviation,No deviation,True
+P106,Conforming,No deviation,No deviation,No deviation,True
+P107,Conforming,No deviation,No deviation,No deviation,True
+P108,Conforming,No deviation,No deviation,No deviation,True
+P109,Conforming,No deviation,No deviation,No deviation,True
+P110,Conforming,No deviation,No deviation,No deviation,True
+P111,Conforming,No deviation,No deviation,No deviation,True
+P112,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P113,Conforming,No deviation,No deviation,No deviation,True
+P114,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P115,Conforming,No deviation,No deviation,No deviation,True
+P116,Conforming,No deviation,No deviation,No deviation,True
+P117,Conforming,No deviation,No deviation,No deviation,True
+P118,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P119,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P120,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P121,Conforming,No deviation,No deviation,No deviation,True
+P122,Conforming,No deviation,No deviation,No deviation,True
+P123,Conforming,No deviation,No deviation,No deviation,True
+P124,Conforming,No deviation,No deviation,No deviation,True
+P125,Conforming,No deviation,No deviation,No deviation,True
+P126,Conforming,No deviation,No deviation,No deviation,True
+P127,Conforming,No deviation,No deviation,No deviation,True
+P128,Conforming,No deviation,No deviation,No deviation,True
+P129,Conforming,No deviation,No deviation,No deviation,True
+P130,Conforming,No deviation,No deviation,No deviation,True
+P131,Conforming,No deviation,No deviation,No deviation,True
+P132,Conforming,No deviation,No deviation,No deviation,True
+P133,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P134,Conforming,No deviation,No deviation,No deviation,True
+P135,Conforming,No deviation,No deviation,No deviation,True
+P136,Conforming,No deviation,No deviation,No deviation,True
+P137,Conforming,No deviation,No deviation,No deviation,True
+P138,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P139,Conforming,No deviation,No deviation,No deviation,True
+P140,Conforming,No deviation,No deviation,No deviation,True
+P141,Conforming,No deviation,No deviation,No deviation,True
+P142,Conforming,No deviation,No deviation,No deviation,True
+P143,Conforming,No deviation,No deviation,No deviation,True
+P144,Conforming,No deviation,No deviation,No deviation,True
+P145,Conforming,No deviation,No deviation,No deviation,True
+P146,Conforming,No deviation,No deviation,No deviation,True
+P147,Conforming,No deviation,No deviation,No deviation,True
+P148,Conforming,No deviation,No deviation,No deviation,True
+P149,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P150,Conforming,No deviation,No deviation,No deviation,True
+P151,Conforming,No deviation,No deviation,No deviation,True
+P152,Conforming,No deviation,No deviation,No deviation,True
+P153,Conforming,No deviation,No deviation,No deviation,True
+P154,Conforming,No deviation,No deviation,No deviation,True
+P155,Conforming,No deviation,No deviation,No deviation,True
+P156,Conforming,No deviation,No deviation,No deviation,True
+P157,Conforming,No deviation,No deviation,No deviation,True
+P158,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P159,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P160,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P161,Conforming,No deviation,No deviation,No deviation,True
+P162,Conforming,No deviation,No deviation,No deviation,True
+P163,Conforming,No deviation,No deviation,No deviation,True
+P164,Conforming,No deviation,No deviation,No deviation,True
+P165,Conforming,No deviation,No deviation,No deviation,True
+P166,Conforming,No deviation,No deviation,No deviation,True
+P167,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P168,Conforming,No deviation,No deviation,No deviation,True
+P169,Conforming,No deviation,No deviation,No deviation,True
+P170,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P171,Conforming,No deviation,No deviation,No deviation,True
+P172,Conforming,No deviation,No deviation,No deviation,True
+P173,Conforming,No deviation,No deviation,No deviation,True
+P174,Conforming,No deviation,No deviation,No deviation,True
+P175,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P176,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P177,Conforming,No deviation,No deviation,No deviation,True
+P178,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P179,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P180,Conforming,No deviation,No deviation,No deviation,True
+P181,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P182,Conforming,No deviation,No deviation,No deviation,True
+P183,Conforming,No deviation,No deviation,No deviation,True
+P184,Conforming,No deviation,No deviation,No deviation,True
+P185,Conforming,No deviation,No deviation,No deviation,True
+P186,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P187,Conforming,No deviation,No deviation,No deviation,True
+P188,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P189,Conforming,No deviation,No deviation,No deviation,True
+P190,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P191,Conforming,No deviation,No deviation,No deviation,True
+P192,Conforming,No deviation,No deviation,No deviation,True
+P193,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P194,Conforming,No deviation,No deviation,No deviation,True
+P195,Conforming,No deviation,No deviation,No deviation,True
+P196,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P197,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P198,Conforming,No deviation,No deviation,No deviation,True
+P199,Non-Conforming,No deviation,"Triage, Doctor Consultation",No deviation,True
+P200,Conforming,No deviation,No deviation,No deviation,True
