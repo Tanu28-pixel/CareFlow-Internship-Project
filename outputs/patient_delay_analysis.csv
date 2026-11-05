@@ -1,0 +1,1166 @@
+Case_ID,Activity_Name,Timestamp,Next_Activity,Next_Timestamp,Waiting_Time_Minutes,Delay_Risk
+P001,Registration,2026-01-30 10:25:00,Triage,2026-01-30 11:06:00,41.0,Low
+P001,Triage,2026-01-30 11:06:00,Doctor Consultation,2026-01-30 11:44:00,38.0,Low
+P001,Doctor Consultation,2026-01-30 11:44:00,X-Ray,2026-01-30 12:11:00,27.0,Low
+P001,X-Ray,2026-01-30 12:11:00,Triage,2026-01-30 13:55:00,104.0,High
+P001,Triage,2026-01-30 13:55:00,Doctor Consultation,2026-01-30 14:18:00,23.0,Low
+P001,Doctor Consultation,2026-01-30 14:18:00,Treatment,2026-01-30 15:54:00,96.0,High
+P001,Treatment,2026-01-30 15:54:00,Discharge,2026-01-30 17:38:00,104.0,High
+P002,Registration,2026-01-05 06:57:00,Triage,2026-01-05 07:36:00,39.0,Low
+P002,Triage,2026-01-05 07:36:00,Doctor Consultation,2026-01-05 08:50:00,74.0,Medium
+P002,Doctor Consultation,2026-01-05 08:50:00,X-Ray,2026-01-05 10:17:00,87.0,Medium
+P002,X-Ray,2026-01-05 10:17:00,Lab Test,2026-01-05 10:30:00,13.0,Low
+P002,Lab Test,2026-01-05 10:30:00,Treatment,2026-01-05 11:51:00,81.0,Medium
+P002,Treatment,2026-01-05 11:51:00,Discharge,2026-01-05 12:26:00,35.0,Low
+P003,Registration,2026-01-30 21:50:00,Triage,2026-01-30 22:35:00,45.0,Low
+P003,Triage,2026-01-30 22:35:00,Doctor Consultation,2026-01-31 00:28:00,113.0,High
+P003,Doctor Consultation,2026-01-31 00:28:00,X-Ray,2026-01-31 00:38:00,10.0,Low
+P003,X-Ray,2026-01-31 00:38:00,Lab Test,2026-01-31 02:25:00,107.0,High
+P003,Lab Test,2026-01-31 02:25:00,Treatment,2026-01-31 04:18:00,113.0,High
+P003,Treatment,2026-01-31 04:18:00,Discharge,2026-01-31 04:48:00,30.0,Low
+P004,Registration,2026-01-20 13:36:00,Triage,2026-01-20 14:29:00,53.0,Low
+P004,Triage,2026-01-20 14:29:00,Doctor Consultation,2026-01-20 14:52:00,23.0,Low
+P004,Doctor Consultation,2026-01-20 14:52:00,X-Ray,2026-01-20 15:13:00,21.0,Low
+P004,X-Ray,2026-01-20 15:13:00,Treatment,2026-01-20 16:11:00,58.0,Low
+P004,Treatment,2026-01-20 16:11:00,Discharge,2026-01-20 16:33:00,22.0,Low
+P005,Registration,2026-01-16 23:41:00,Triage,2026-01-17 00:59:00,78.0,Medium
+P005,Triage,2026-01-17 00:59:00,Doctor Consultation,2026-01-17 01:24:00,25.0,Low
+P005,Doctor Consultation,2026-01-17 01:24:00,Treatment,2026-01-17 02:22:00,58.0,Low
+P005,Treatment,2026-01-17 02:22:00,Discharge,2026-01-17 02:42:00,20.0,Low
+P006,Registration,2026-01-14 16:13:00,Triage,2026-01-14 17:36:00,83.0,Medium
+P006,Triage,2026-01-14 17:36:00,Doctor Consultation,2026-01-14 18:10:00,34.0,Low
+P006,Doctor Consultation,2026-01-14 18:10:00,Treatment,2026-01-14 19:50:00,100.0,High
+P006,Treatment,2026-01-14 19:50:00,Discharge,2026-01-14 20:08:00,18.0,Low
+P007,Registration,2026-01-11 16:55:00,Triage,2026-01-11 18:55:00,120.0,High
+P007,Triage,2026-01-11 18:55:00,Doctor Consultation,2026-01-11 19:17:00,22.0,Low
+P007,Doctor Consultation,2026-01-11 19:17:00,Treatment,2026-01-11 20:15:00,58.0,Low
+P007,Treatment,2026-01-11 20:15:00,Discharge,2026-01-11 21:00:00,45.0,Low
+P008,Registration,2026-01-30 06:20:00,Triage,2026-01-30 07:55:00,95.0,High
+P008,Triage,2026-01-30 07:55:00,Doctor Consultation,2026-01-30 08:39:00,44.0,Low
+P008,Doctor Consultation,2026-01-30 08:39:00,X-Ray,2026-01-30 10:18:00,99.0,High
+P008,X-Ray,2026-01-30 10:18:00,Lab Test,2026-01-30 11:55:00,97.0,High
+P008,Lab Test,2026-01-30 11:55:00,Treatment,2026-01-30 13:27:00,92.0,High
+P008,Treatment,2026-01-30 13:27:00,Discharge,2026-01-30 13:46:00,19.0,Low
+P009,Registration,2026-01-30 05:33:00,Triage,2026-01-30 06:03:00,30.0,Low
+P009,Triage,2026-01-30 06:03:00,Doctor Consultation,2026-01-30 07:12:00,69.0,Medium
+P009,Doctor Consultation,2026-01-30 07:12:00,X-Ray,2026-01-30 08:10:00,58.0,Low
+P009,X-Ray,2026-01-30 08:10:00,Triage,2026-01-30 08:54:00,44.0,Low
+P009,Triage,2026-01-30 08:54:00,Doctor Consultation,2026-01-30 10:25:00,91.0,High
+P009,Doctor Consultation,2026-01-30 10:25:00,Treatment,2026-01-30 12:03:00,98.0,High
+P009,Treatment,2026-01-30 12:03:00,Discharge,2026-01-30 13:24:00,81.0,Medium
+P010,Registration,2026-01-16 02:12:00,Triage,2026-01-16 02:26:00,14.0,Low
+P010,Triage,2026-01-16 02:26:00,Doctor Consultation,2026-01-16 04:19:00,113.0,High
+P010,Doctor Consultation,2026-01-16 04:19:00,Lab Test,2026-01-16 05:09:00,50.0,Low
+P010,Lab Test,2026-01-16 05:09:00,Treatment,2026-01-16 06:10:00,61.0,Medium
+P010,Treatment,2026-01-16 06:10:00,Discharge,2026-01-16 06:54:00,44.0,Low
+P011,Registration,2026-01-10 22:26:00,Triage,2026-01-10 23:03:00,37.0,Low
+P011,Triage,2026-01-10 23:03:00,Doctor Consultation,2026-01-11 00:36:00,93.0,High
+P011,Doctor Consultation,2026-01-11 00:36:00,Treatment,2026-01-11 01:49:00,73.0,Medium
+P011,Treatment,2026-01-11 01:49:00,Discharge,2026-01-11 02:49:00,60.0,Medium
+P012,Registration,2026-01-22 05:11:00,Triage,2026-01-22 06:56:00,105.0,High
+P012,Triage,2026-01-22 06:56:00,Doctor Consultation,2026-01-22 08:17:00,81.0,Medium
+P012,Doctor Consultation,2026-01-22 08:17:00,X-Ray,2026-01-22 09:35:00,78.0,Medium
+P012,X-Ray,2026-01-22 09:35:00,Triage,2026-01-22 10:18:00,43.0,Low
+P012,Triage,2026-01-22 10:18:00,Doctor Consultation,2026-01-22 12:03:00,105.0,High
+P012,Doctor Consultation,2026-01-22 12:03:00,Lab Test,2026-01-22 13:27:00,84.0,Medium
+P012,Lab Test,2026-01-22 13:27:00,Treatment,2026-01-22 14:31:00,64.0,Medium
+P012,Treatment,2026-01-22 14:31:00,Discharge,2026-01-22 15:55:00,84.0,Medium
+P013,Registration,2026-01-17 19:23:00,Triage,2026-01-17 20:38:00,75.0,Medium
+P013,Triage,2026-01-17 20:38:00,Doctor Consultation,2026-01-17 21:51:00,73.0,Medium
+P013,Doctor Consultation,2026-01-17 21:51:00,X-Ray,2026-01-17 22:12:00,21.0,Low
+P013,X-Ray,2026-01-17 22:12:00,Triage,2026-01-17 23:58:00,106.0,High
+P013,Triage,2026-01-17 23:58:00,Doctor Consultation,2026-01-18 00:14:00,16.0,Low
+P013,Doctor Consultation,2026-01-18 00:14:00,Treatment,2026-01-18 02:14:00,120.0,High
+P013,Treatment,2026-01-18 02:14:00,Discharge,2026-01-18 02:38:00,24.0,Low
+P014,Registration,2026-01-29 21:20:00,Triage,2026-01-29 22:46:00,86.0,Medium
+P014,Triage,2026-01-29 22:46:00,Doctor Consultation,2026-01-29 23:04:00,18.0,Low
+P014,Doctor Consultation,2026-01-29 23:04:00,X-Ray,2026-01-30 00:03:00,59.0,Low
+P014,X-Ray,2026-01-30 00:03:00,Triage,2026-01-30 01:01:00,58.0,Low
+P014,Triage,2026-01-30 01:01:00,Doctor Consultation,2026-01-30 02:27:00,86.0,Medium
+P014,Doctor Consultation,2026-01-30 02:27:00,Treatment,2026-01-30 03:36:00,69.0,Medium
+P014,Treatment,2026-01-30 03:36:00,Discharge,2026-01-30 04:53:00,77.0,Medium
+P015,Registration,2026-01-26 12:16:00,Triage,2026-01-26 13:53:00,97.0,High
+P015,Triage,2026-01-26 13:53:00,Doctor Consultation,2026-01-26 15:11:00,78.0,Medium
+P015,Doctor Consultation,2026-01-26 15:11:00,X-Ray,2026-01-26 16:57:00,106.0,High
+P015,X-Ray,2026-01-26 16:57:00,Treatment,2026-01-26 17:41:00,44.0,Low
+P015,Treatment,2026-01-26 17:41:00,Discharge,2026-01-26 19:29:00,108.0,High
+P016,Registration,2026-01-16 19:33:00,Triage,2026-01-16 20:41:00,68.0,Medium
+P016,Triage,2026-01-16 20:41:00,Doctor Consultation,2026-01-16 20:51:00,10.0,Low
+P016,Doctor Consultation,2026-01-16 20:51:00,X-Ray,2026-01-16 22:33:00,102.0,High
+P016,X-Ray,2026-01-16 22:33:00,Triage,2026-01-17 00:15:00,102.0,High
+P016,Triage,2026-01-17 00:15:00,Doctor Consultation,2026-01-17 00:58:00,43.0,Low
+P016,Doctor Consultation,2026-01-17 00:58:00,Lab Test,2026-01-17 02:12:00,74.0,Medium
+P016,Lab Test,2026-01-17 02:12:00,Treatment,2026-01-17 03:59:00,107.0,High
+P016,Treatment,2026-01-17 03:59:00,Discharge,2026-01-17 04:31:00,32.0,Low
+P017,Registration,2026-01-06 04:13:00,Triage,2026-01-06 05:40:00,87.0,Medium
+P017,Triage,2026-01-06 05:40:00,Doctor Consultation,2026-01-06 06:15:00,35.0,Low
+P017,Doctor Consultation,2026-01-06 06:15:00,X-Ray,2026-01-06 06:44:00,29.0,Low
+P017,X-Ray,2026-01-06 06:44:00,Treatment,2026-01-06 07:41:00,57.0,Low
+P017,Treatment,2026-01-06 07:41:00,Discharge,2026-01-06 09:28:00,107.0,High
+P018,Registration,2026-01-25 21:08:00,Triage,2026-01-25 22:34:00,86.0,Medium
+P018,Triage,2026-01-25 22:34:00,Doctor Consultation,2026-01-25 23:25:00,51.0,Low
+P018,Doctor Consultation,2026-01-25 23:25:00,Treatment,2026-01-26 00:37:00,72.0,Medium
+P018,Treatment,2026-01-26 00:37:00,Discharge,2026-01-26 00:49:00,12.0,Low
+P019,Registration,2026-01-17 20:28:00,Triage,2026-01-17 20:45:00,17.0,Low
+P019,Triage,2026-01-17 20:45:00,Doctor Consultation,2026-01-17 21:25:00,40.0,Low
+P019,Doctor Consultation,2026-01-17 21:25:00,Lab Test,2026-01-17 22:47:00,82.0,Medium
+P019,Lab Test,2026-01-17 22:47:00,Treatment,2026-01-17 23:07:00,20.0,Low
+P019,Treatment,2026-01-17 23:07:00,Discharge,2026-01-17 23:27:00,20.0,Low
+P020,Registration,2026-01-23 10:49:00,Triage,2026-01-23 11:15:00,26.0,Low
+P020,Triage,2026-01-23 11:15:00,Doctor Consultation,2026-01-23 11:41:00,26.0,Low
+P020,Doctor Consultation,2026-01-23 11:41:00,Lab Test,2026-01-23 13:15:00,94.0,High
+P020,Lab Test,2026-01-23 13:15:00,Treatment,2026-01-23 14:25:00,70.0,Medium
+P020,Treatment,2026-01-23 14:25:00,Discharge,2026-01-23 15:45:00,80.0,Medium
+P021,Registration,2026-01-13 09:30:00,Triage,2026-01-13 10:49:00,79.0,Medium
+P021,Triage,2026-01-13 10:49:00,Doctor Consultation,2026-01-13 12:35:00,106.0,High
+P021,Doctor Consultation,2026-01-13 12:35:00,Treatment,2026-01-13 14:18:00,103.0,High
+P021,Treatment,2026-01-13 14:18:00,Discharge,2026-01-13 15:56:00,98.0,High
+P022,Registration,2026-01-15 12:28:00,Triage,2026-01-15 13:44:00,76.0,Medium
+P022,Triage,2026-01-15 13:44:00,Doctor Consultation,2026-01-15 14:51:00,67.0,Medium
+P022,Doctor Consultation,2026-01-15 14:51:00,Lab Test,2026-01-15 15:16:00,25.0,Low
+P022,Lab Test,2026-01-15 15:16:00,Treatment,2026-01-15 15:57:00,41.0,Low
+P022,Treatment,2026-01-15 15:57:00,Discharge,2026-01-15 16:35:00,38.0,Low
+P023,Registration,2026-01-16 17:16:00,Triage,2026-01-16 18:41:00,85.0,Medium
+P023,Triage,2026-01-16 18:41:00,Doctor Consultation,2026-01-16 19:19:00,38.0,Low
+P023,Doctor Consultation,2026-01-16 19:19:00,X-Ray,2026-01-16 19:29:00,10.0,Low
+P023,X-Ray,2026-01-16 19:29:00,Triage,2026-01-16 19:48:00,19.0,Low
+P023,Triage,2026-01-16 19:48:00,Doctor Consultation,2026-01-16 21:28:00,100.0,High
+P023,Doctor Consultation,2026-01-16 21:28:00,Lab Test,2026-01-16 22:58:00,90.0,High
+P023,Lab Test,2026-01-16 22:58:00,Treatment,2026-01-16 23:15:00,17.0,Low
+P023,Treatment,2026-01-16 23:15:00,Discharge,2026-01-16 23:54:00,39.0,Low
+P024,Registration,2026-01-02 18:18:00,Triage,2026-01-02 19:53:00,95.0,High
+P024,Triage,2026-01-02 19:53:00,Doctor Consultation,2026-01-02 21:05:00,72.0,Medium
+P024,Doctor Consultation,2026-01-02 21:05:00,X-Ray,2026-01-02 21:42:00,37.0,Low
+P024,X-Ray,2026-01-02 21:42:00,Lab Test,2026-01-02 23:01:00,79.0,Medium
+P024,Lab Test,2026-01-02 23:01:00,Treatment,2026-01-02 23:27:00,26.0,Low
+P024,Treatment,2026-01-02 23:27:00,Discharge,2026-01-03 01:09:00,102.0,High
+P025,Registration,2026-01-27 13:22:00,Triage,2026-01-27 13:56:00,34.0,Low
+P025,Triage,2026-01-27 13:56:00,Doctor Consultation,2026-01-27 14:18:00,22.0,Low
+P025,Doctor Consultation,2026-01-27 14:18:00,Treatment,2026-01-27 14:40:00,22.0,Low
+P025,Treatment,2026-01-27 14:40:00,Discharge,2026-01-27 16:14:00,94.0,High
+P026,Registration,2026-01-17 10:59:00,Triage,2026-01-17 12:35:00,96.0,High
+P026,Triage,2026-01-17 12:35:00,Doctor Consultation,2026-01-17 14:08:00,93.0,High
+P026,Doctor Consultation,2026-01-17 14:08:00,X-Ray,2026-01-17 15:40:00,92.0,High
+P026,X-Ray,2026-01-17 15:40:00,Treatment,2026-01-17 16:02:00,22.0,Low
+P026,Treatment,2026-01-17 16:02:00,Discharge,2026-01-17 16:19:00,17.0,Low
+P027,Registration,2026-01-16 18:36:00,Triage,2026-01-16 19:54:00,78.0,Medium
+P027,Triage,2026-01-16 19:54:00,Doctor Consultation,2026-01-16 21:01:00,67.0,Medium
+P027,Doctor Consultation,2026-01-16 21:01:00,X-Ray,2026-01-16 21:28:00,27.0,Low
+P027,X-Ray,2026-01-16 21:28:00,Lab Test,2026-01-16 22:32:00,64.0,Medium
+P027,Lab Test,2026-01-16 22:32:00,Treatment,2026-01-16 23:05:00,33.0,Low
+P027,Treatment,2026-01-16 23:05:00,Discharge,2026-01-16 23:50:00,45.0,Low
+P028,Registration,2026-01-12 16:51:00,Triage,2026-01-12 18:50:00,119.0,High
+P028,Triage,2026-01-12 18:50:00,Doctor Consultation,2026-01-12 20:10:00,80.0,Medium
+P028,Doctor Consultation,2026-01-12 20:10:00,X-Ray,2026-01-12 20:32:00,22.0,Low
+P028,X-Ray,2026-01-12 20:32:00,Treatment,2026-01-12 20:48:00,16.0,Low
+P028,Treatment,2026-01-12 20:48:00,Discharge,2026-01-12 22:21:00,93.0,High
+P029,Registration,2026-01-02 00:07:00,Triage,2026-01-02 00:38:00,31.0,Low
+P029,Triage,2026-01-02 00:38:00,Doctor Consultation,2026-01-02 01:40:00,62.0,Medium
+P029,Doctor Consultation,2026-01-02 01:40:00,Treatment,2026-01-02 02:52:00,72.0,Medium
+P029,Treatment,2026-01-02 02:52:00,Discharge,2026-01-02 04:03:00,71.0,Medium
+P030,Registration,2026-01-19 14:02:00,Triage,2026-01-19 15:01:00,59.0,Low
+P030,Triage,2026-01-19 15:01:00,Doctor Consultation,2026-01-19 15:44:00,43.0,Low
+P030,Doctor Consultation,2026-01-19 15:44:00,X-Ray,2026-01-19 17:34:00,110.0,High
+P030,X-Ray,2026-01-19 17:34:00,Lab Test,2026-01-19 19:24:00,110.0,High
+P030,Lab Test,2026-01-19 19:24:00,Treatment,2026-01-19 20:32:00,68.0,Medium
+P030,Treatment,2026-01-19 20:32:00,Discharge,2026-01-19 21:18:00,46.0,Low
+P031,Registration,2026-01-26 15:02:00,Triage,2026-01-26 15:39:00,37.0,Low
+P031,Triage,2026-01-26 15:39:00,Doctor Consultation,2026-01-26 15:56:00,17.0,Low
+P031,Doctor Consultation,2026-01-26 15:56:00,X-Ray,2026-01-26 17:20:00,84.0,Medium
+P031,X-Ray,2026-01-26 17:20:00,Lab Test,2026-01-26 19:04:00,104.0,High
+P031,Lab Test,2026-01-26 19:04:00,Treatment,2026-01-26 20:23:00,79.0,Medium
+P031,Treatment,2026-01-26 20:23:00,Discharge,2026-01-26 20:40:00,17.0,Low
+P032,Registration,2026-01-15 14:32:00,Triage,2026-01-15 15:46:00,74.0,Medium
+P032,Triage,2026-01-15 15:46:00,Doctor Consultation,2026-01-15 17:45:00,119.0,High
+P032,Doctor Consultation,2026-01-15 17:45:00,X-Ray,2026-01-15 19:02:00,77.0,Medium
+P032,X-Ray,2026-01-15 19:02:00,Triage,2026-01-15 19:32:00,30.0,Low
+P032,Triage,2026-01-15 19:32:00,Doctor Consultation,2026-01-15 19:49:00,17.0,Low
+P032,Doctor Consultation,2026-01-15 19:49:00,Lab Test,2026-01-15 21:04:00,75.0,Medium
+P032,Lab Test,2026-01-15 21:04:00,Treatment,2026-01-15 21:24:00,20.0,Low
+P032,Treatment,2026-01-15 21:24:00,Discharge,2026-01-15 23:22:00,118.0,High
+P033,Registration,2026-01-04 10:50:00,Triage,2026-01-04 11:15:00,25.0,Low
+P033,Triage,2026-01-04 11:15:00,Doctor Consultation,2026-01-04 12:37:00,82.0,Medium
+P033,Doctor Consultation,2026-01-04 12:37:00,Lab Test,2026-01-04 13:18:00,41.0,Low
+P033,Lab Test,2026-01-04 13:18:00,Treatment,2026-01-04 14:42:00,84.0,Medium
+P033,Treatment,2026-01-04 14:42:00,Discharge,2026-01-04 16:08:00,86.0,Medium
+P034,Registration,2026-01-29 12:31:00,Triage,2026-01-29 13:53:00,82.0,Medium
+P034,Triage,2026-01-29 13:53:00,Doctor Consultation,2026-01-29 15:09:00,76.0,Medium
+P034,Doctor Consultation,2026-01-29 15:09:00,X-Ray,2026-01-29 15:59:00,50.0,Low
+P034,X-Ray,2026-01-29 15:59:00,Triage,2026-01-29 16:42:00,43.0,Low
+P034,Triage,2026-01-29 16:42:00,Doctor Consultation,2026-01-29 17:18:00,36.0,Low
+P034,Doctor Consultation,2026-01-29 17:18:00,Treatment,2026-01-29 18:53:00,95.0,High
+P034,Treatment,2026-01-29 18:53:00,Discharge,2026-01-29 20:34:00,101.0,High
+P035,Registration,2026-01-12 04:42:00,Triage,2026-01-12 06:14:00,92.0,High
+P035,Triage,2026-01-12 06:14:00,Doctor Consultation,2026-01-12 07:02:00,48.0,Low
+P035,Doctor Consultation,2026-01-12 07:02:00,X-Ray,2026-01-12 08:10:00,68.0,Medium
+P035,X-Ray,2026-01-12 08:10:00,Triage,2026-01-12 09:00:00,50.0,Low
+P035,Triage,2026-01-12 09:00:00,Doctor Consultation,2026-01-12 10:46:00,106.0,High
+P035,Doctor Consultation,2026-01-12 10:46:00,Lab Test,2026-01-12 11:05:00,19.0,Low
+P035,Lab Test,2026-01-12 11:05:00,Treatment,2026-01-12 11:16:00,11.0,Low
+P035,Treatment,2026-01-12 11:16:00,Discharge,2026-01-12 12:24:00,68.0,Medium
+P036,Registration,2026-01-26 22:56:00,Triage,2026-01-26 23:39:00,43.0,Low
+P036,Triage,2026-01-26 23:39:00,Doctor Consultation,2026-01-27 00:05:00,26.0,Low
+P036,Doctor Consultation,2026-01-27 00:05:00,X-Ray,2026-01-27 00:59:00,54.0,Low
+P036,X-Ray,2026-01-27 00:59:00,Lab Test,2026-01-27 01:17:00,18.0,Low
+P036,Lab Test,2026-01-27 01:17:00,Treatment,2026-01-27 01:58:00,41.0,Low
+P036,Treatment,2026-01-27 01:58:00,Discharge,2026-01-27 02:55:00,57.0,Low
+P037,Registration,2026-01-08 12:18:00,Triage,2026-01-08 14:11:00,113.0,High
+P037,Triage,2026-01-08 14:11:00,Doctor Consultation,2026-01-08 15:44:00,93.0,High
+P037,Doctor Consultation,2026-01-08 15:44:00,Lab Test,2026-01-08 17:01:00,77.0,Medium
+P037,Lab Test,2026-01-08 17:01:00,Treatment,2026-01-08 17:12:00,11.0,Low
+P037,Treatment,2026-01-08 17:12:00,Discharge,2026-01-08 18:47:00,95.0,High
+P038,Registration,2026-01-26 13:46:00,Triage,2026-01-26 14:13:00,27.0,Low
+P038,Triage,2026-01-26 14:13:00,Doctor Consultation,2026-01-26 14:56:00,43.0,Low
+P038,Doctor Consultation,2026-01-26 14:56:00,X-Ray,2026-01-26 15:20:00,24.0,Low
+P038,X-Ray,2026-01-26 15:20:00,Triage,2026-01-26 15:43:00,23.0,Low
+P038,Triage,2026-01-26 15:43:00,Doctor Consultation,2026-01-26 17:28:00,105.0,High
+P038,Doctor Consultation,2026-01-26 17:28:00,Treatment,2026-01-26 18:48:00,80.0,Medium
+P038,Treatment,2026-01-26 18:48:00,Discharge,2026-01-26 19:17:00,29.0,Low
+P039,Registration,2026-01-14 03:45:00,Triage,2026-01-14 05:16:00,91.0,High
+P039,Triage,2026-01-14 05:16:00,Doctor Consultation,2026-01-14 07:15:00,119.0,High
+P039,Doctor Consultation,2026-01-14 07:15:00,Lab Test,2026-01-14 07:58:00,43.0,Low
+P039,Lab Test,2026-01-14 07:58:00,Treatment,2026-01-14 09:12:00,74.0,Medium
+P039,Treatment,2026-01-14 09:12:00,Discharge,2026-01-14 10:24:00,72.0,Medium
+P040,Registration,2026-01-03 15:29:00,Triage,2026-01-03 16:14:00,45.0,Low
+P040,Triage,2026-01-03 16:14:00,Doctor Consultation,2026-01-03 16:29:00,15.0,Low
+P040,Doctor Consultation,2026-01-03 16:29:00,X-Ray,2026-01-03 16:39:00,10.0,Low
+P040,X-Ray,2026-01-03 16:39:00,Triage,2026-01-03 17:31:00,52.0,Low
+P040,Triage,2026-01-03 17:31:00,Doctor Consultation,2026-01-03 19:19:00,108.0,High
+P040,Doctor Consultation,2026-01-03 19:19:00,Lab Test,2026-01-03 19:45:00,26.0,Low
+P040,Lab Test,2026-01-03 19:45:00,Treatment,2026-01-03 21:16:00,91.0,High
+P040,Treatment,2026-01-03 21:16:00,Discharge,2026-01-03 21:59:00,43.0,Low
+P041,Registration,2026-01-21 10:36:00,Triage,2026-01-21 10:55:00,19.0,Low
+P041,Triage,2026-01-21 10:55:00,Doctor Consultation,2026-01-21 12:33:00,98.0,High
+P041,Doctor Consultation,2026-01-21 12:33:00,X-Ray,2026-01-21 13:02:00,29.0,Low
+P041,X-Ray,2026-01-21 13:02:00,Lab Test,2026-01-21 14:21:00,79.0,Medium
+P041,Lab Test,2026-01-21 14:21:00,Treatment,2026-01-21 14:35:00,14.0,Low
+P041,Treatment,2026-01-21 14:35:00,Discharge,2026-01-21 16:31:00,116.0,High
+P042,Registration,2026-01-27 20:15:00,Triage,2026-01-27 21:11:00,56.0,Low
+P042,Triage,2026-01-27 21:11:00,Doctor Consultation,2026-01-27 23:02:00,111.0,High
+P042,Doctor Consultation,2026-01-27 23:02:00,X-Ray,2026-01-28 01:02:00,120.0,High
+P042,X-Ray,2026-01-28 01:02:00,Lab Test,2026-01-28 01:17:00,15.0,Low
+P042,Lab Test,2026-01-28 01:17:00,Treatment,2026-01-28 02:12:00,55.0,Low
+P042,Treatment,2026-01-28 02:12:00,Discharge,2026-01-28 02:48:00,36.0,Low
+P043,Registration,2026-01-12 16:33:00,Triage,2026-01-12 17:35:00,62.0,Medium
+P043,Triage,2026-01-12 17:35:00,Doctor Consultation,2026-01-12 19:04:00,89.0,Medium
+P043,Doctor Consultation,2026-01-12 19:04:00,X-Ray,2026-01-12 20:49:00,105.0,High
+P043,X-Ray,2026-01-12 20:49:00,Lab Test,2026-01-12 21:18:00,29.0,Low
+P043,Lab Test,2026-01-12 21:18:00,Treatment,2026-01-12 21:58:00,40.0,Low
+P043,Treatment,2026-01-12 21:58:00,Discharge,2026-01-12 23:58:00,120.0,High
+P044,Registration,2026-01-09 09:23:00,Triage,2026-01-09 10:15:00,52.0,Low
+P044,Triage,2026-01-09 10:15:00,Doctor Consultation,2026-01-09 12:05:00,110.0,High
+P044,Doctor Consultation,2026-01-09 12:05:00,X-Ray,2026-01-09 13:07:00,62.0,Medium
+P044,X-Ray,2026-01-09 13:07:00,Treatment,2026-01-09 14:59:00,112.0,High
+P044,Treatment,2026-01-09 14:59:00,Discharge,2026-01-09 16:34:00,95.0,High
+P045,Registration,2026-01-12 15:03:00,Triage,2026-01-12 15:26:00,23.0,Low
+P045,Triage,2026-01-12 15:26:00,Doctor Consultation,2026-01-12 16:24:00,58.0,Low
+P045,Doctor Consultation,2026-01-12 16:24:00,X-Ray,2026-01-12 16:38:00,14.0,Low
+P045,X-Ray,2026-01-12 16:38:00,Triage,2026-01-12 18:37:00,119.0,High
+P045,Triage,2026-01-12 18:37:00,Doctor Consultation,2026-01-12 19:47:00,70.0,Medium
+P045,Doctor Consultation,2026-01-12 19:47:00,Treatment,2026-01-12 20:25:00,38.0,Low
+P045,Treatment,2026-01-12 20:25:00,Discharge,2026-01-12 21:00:00,35.0,Low
+P046,Registration,2026-01-22 06:46:00,Triage,2026-01-22 07:24:00,38.0,Low
+P046,Triage,2026-01-22 07:24:00,Doctor Consultation,2026-01-22 07:37:00,13.0,Low
+P046,Doctor Consultation,2026-01-22 07:37:00,Treatment,2026-01-22 09:11:00,94.0,High
+P046,Treatment,2026-01-22 09:11:00,Discharge,2026-01-22 09:45:00,34.0,Low
+P047,Registration,2026-01-16 06:32:00,Triage,2026-01-16 08:20:00,108.0,High
+P047,Triage,2026-01-16 08:20:00,Doctor Consultation,2026-01-16 09:05:00,45.0,Low
+P047,Doctor Consultation,2026-01-16 09:05:00,X-Ray,2026-01-16 09:59:00,54.0,Low
+P047,X-Ray,2026-01-16 09:59:00,Triage,2026-01-16 11:31:00,92.0,High
+P047,Triage,2026-01-16 11:31:00,Doctor Consultation,2026-01-16 12:46:00,75.0,Medium
+P047,Doctor Consultation,2026-01-16 12:46:00,Lab Test,2026-01-16 13:47:00,61.0,Medium
+P047,Lab Test,2026-01-16 13:47:00,Treatment,2026-01-16 15:23:00,96.0,High
+P047,Treatment,2026-01-16 15:23:00,Discharge,2026-01-16 17:20:00,117.0,High
+P048,Registration,2026-01-16 09:42:00,Triage,2026-01-16 10:14:00,32.0,Low
+P048,Triage,2026-01-16 10:14:00,Doctor Consultation,2026-01-16 11:38:00,84.0,Medium
+P048,Doctor Consultation,2026-01-16 11:38:00,X-Ray,2026-01-16 12:21:00,43.0,Low
+P048,X-Ray,2026-01-16 12:21:00,Treatment,2026-01-16 12:35:00,14.0,Low
+P048,Treatment,2026-01-16 12:35:00,Discharge,2026-01-16 12:58:00,23.0,Low
+P049,Registration,2026-01-21 02:39:00,Triage,2026-01-21 03:54:00,75.0,Medium
+P049,Triage,2026-01-21 03:54:00,Doctor Consultation,2026-01-21 04:18:00,24.0,Low
+P049,Doctor Consultation,2026-01-21 04:18:00,Lab Test,2026-01-21 05:17:00,59.0,Low
+P049,Lab Test,2026-01-21 05:17:00,Treatment,2026-01-21 06:40:00,83.0,Medium
+P049,Treatment,2026-01-21 06:40:00,Discharge,2026-01-21 07:14:00,34.0,Low
+P050,Registration,2026-01-03 08:28:00,Triage,2026-01-03 09:46:00,78.0,Medium
+P050,Triage,2026-01-03 09:46:00,Doctor Consultation,2026-01-03 11:23:00,97.0,High
+P050,Doctor Consultation,2026-01-03 11:23:00,X-Ray,2026-01-03 13:05:00,102.0,High
+P050,X-Ray,2026-01-03 13:05:00,Treatment,2026-01-03 14:49:00,104.0,High
+P050,Treatment,2026-01-03 14:49:00,Discharge,2026-01-03 16:33:00,104.0,High
+P051,Registration,2026-01-10 07:12:00,Triage,2026-01-10 08:04:00,52.0,Low
+P051,Triage,2026-01-10 08:04:00,Doctor Consultation,2026-01-10 09:33:00,89.0,Medium
+P051,Doctor Consultation,2026-01-10 09:33:00,X-Ray,2026-01-10 10:23:00,50.0,Low
+P051,X-Ray,2026-01-10 10:23:00,Treatment,2026-01-10 11:57:00,94.0,High
+P051,Treatment,2026-01-10 11:57:00,Discharge,2026-01-10 13:55:00,118.0,High
+P052,Registration,2026-01-15 00:01:00,Triage,2026-01-15 01:40:00,99.0,High
+P052,Triage,2026-01-15 01:40:00,Doctor Consultation,2026-01-15 02:27:00,47.0,Low
+P052,Doctor Consultation,2026-01-15 02:27:00,Lab Test,2026-01-15 03:47:00,80.0,Medium
+P052,Lab Test,2026-01-15 03:47:00,Treatment,2026-01-15 04:13:00,26.0,Low
+P052,Treatment,2026-01-15 04:13:00,Discharge,2026-01-15 04:47:00,34.0,Low
+P053,Registration,2026-01-18 14:07:00,Triage,2026-01-18 14:55:00,48.0,Low
+P053,Triage,2026-01-18 14:55:00,Doctor Consultation,2026-01-18 15:56:00,61.0,Medium
+P053,Doctor Consultation,2026-01-18 15:56:00,Treatment,2026-01-18 17:16:00,80.0,Medium
+P053,Treatment,2026-01-18 17:16:00,Discharge,2026-01-18 19:12:00,116.0,High
+P054,Registration,2026-01-15 03:54:00,Triage,2026-01-15 05:18:00,84.0,Medium
+P054,Triage,2026-01-15 05:18:00,Doctor Consultation,2026-01-15 06:45:00,87.0,Medium
+P054,Doctor Consultation,2026-01-15 06:45:00,X-Ray,2026-01-15 08:18:00,93.0,High
+P054,X-Ray,2026-01-15 08:18:00,Triage,2026-01-15 09:09:00,51.0,Low
+P054,Triage,2026-01-15 09:09:00,Doctor Consultation,2026-01-15 10:18:00,69.0,Medium
+P054,Doctor Consultation,2026-01-15 10:18:00,Lab Test,2026-01-15 11:24:00,66.0,Medium
+P054,Lab Test,2026-01-15 11:24:00,Treatment,2026-01-15 12:30:00,66.0,Medium
+P054,Treatment,2026-01-15 12:30:00,Discharge,2026-01-15 14:06:00,96.0,High
+P055,Registration,2026-01-24 14:20:00,Triage,2026-01-24 14:51:00,31.0,Low
+P055,Triage,2026-01-24 14:51:00,Doctor Consultation,2026-01-24 16:25:00,94.0,High
+P055,Doctor Consultation,2026-01-24 16:25:00,Treatment,2026-01-24 16:45:00,20.0,Low
+P055,Treatment,2026-01-24 16:45:00,Discharge,2026-01-24 17:31:00,46.0,Low
+P056,Registration,2026-01-30 03:20:00,Triage,2026-01-30 04:00:00,40.0,Low
+P056,Triage,2026-01-30 04:00:00,Doctor Consultation,2026-01-30 05:36:00,96.0,High
+P056,Doctor Consultation,2026-01-30 05:36:00,X-Ray,2026-01-30 06:25:00,49.0,Low
+P056,X-Ray,2026-01-30 06:25:00,Treatment,2026-01-30 07:03:00,38.0,Low
+P056,Treatment,2026-01-30 07:03:00,Discharge,2026-01-30 08:56:00,113.0,High
+P057,Registration,2026-01-08 00:56:00,Triage,2026-01-08 02:06:00,70.0,Medium
+P057,Triage,2026-01-08 02:06:00,Doctor Consultation,2026-01-08 03:34:00,88.0,Medium
+P057,Doctor Consultation,2026-01-08 03:34:00,X-Ray,2026-01-08 05:32:00,118.0,High
+P057,X-Ray,2026-01-08 05:32:00,Triage,2026-01-08 07:20:00,108.0,High
+P057,Triage,2026-01-08 07:20:00,Doctor Consultation,2026-01-08 07:39:00,19.0,Low
+P057,Doctor Consultation,2026-01-08 07:39:00,Lab Test,2026-01-08 08:47:00,68.0,Medium
+P057,Lab Test,2026-01-08 08:47:00,Treatment,2026-01-08 09:50:00,63.0,Medium
+P057,Treatment,2026-01-08 09:50:00,Discharge,2026-01-08 11:20:00,90.0,High
+P058,Registration,2026-01-10 04:22:00,Triage,2026-01-10 04:50:00,28.0,Low
+P058,Triage,2026-01-10 04:50:00,Doctor Consultation,2026-01-10 06:23:00,93.0,High
+P058,Doctor Consultation,2026-01-10 06:23:00,X-Ray,2026-01-10 08:01:00,98.0,High
+P058,X-Ray,2026-01-10 08:01:00,Lab Test,2026-01-10 08:11:00,10.0,Low
+P058,Lab Test,2026-01-10 08:11:00,Treatment,2026-01-10 09:57:00,106.0,High
+P058,Treatment,2026-01-10 09:57:00,Discharge,2026-01-10 11:57:00,120.0,High
+P059,Registration,2026-01-06 04:25:00,Triage,2026-01-06 06:04:00,99.0,High
+P059,Triage,2026-01-06 06:04:00,Doctor Consultation,2026-01-06 07:20:00,76.0,Medium
+P059,Doctor Consultation,2026-01-06 07:20:00,X-Ray,2026-01-06 08:29:00,69.0,Medium
+P059,X-Ray,2026-01-06 08:29:00,Treatment,2026-01-06 08:45:00,16.0,Low
+P059,Treatment,2026-01-06 08:45:00,Discharge,2026-01-06 10:06:00,81.0,Medium
+P060,Registration,2026-01-06 20:33:00,Triage,2026-01-06 21:54:00,81.0,Medium
+P060,Triage,2026-01-06 21:54:00,Doctor Consultation,2026-01-06 23:20:00,86.0,Medium
+P060,Doctor Consultation,2026-01-06 23:20:00,Treatment,2026-01-07 00:10:00,50.0,Low
+P060,Treatment,2026-01-07 00:10:00,Discharge,2026-01-07 01:56:00,106.0,High
+P061,Registration,2026-01-29 05:10:00,Triage,2026-01-29 06:30:00,80.0,Medium
+P061,Triage,2026-01-29 06:30:00,Doctor Consultation,2026-01-29 07:37:00,67.0,Medium
+P061,Doctor Consultation,2026-01-29 07:37:00,Lab Test,2026-01-29 08:07:00,30.0,Low
+P061,Lab Test,2026-01-29 08:07:00,Treatment,2026-01-29 09:52:00,105.0,High
+P061,Treatment,2026-01-29 09:52:00,Discharge,2026-01-29 11:52:00,120.0,High
+P062,Registration,2026-01-21 19:35:00,Triage,2026-01-21 21:06:00,91.0,High
+P062,Triage,2026-01-21 21:06:00,Doctor Consultation,2026-01-21 21:51:00,45.0,Low
+P062,Doctor Consultation,2026-01-21 21:51:00,X-Ray,2026-01-21 23:39:00,108.0,High
+P062,X-Ray,2026-01-21 23:39:00,Triage,2026-01-22 01:28:00,109.0,High
+P062,Triage,2026-01-22 01:28:00,Doctor Consultation,2026-01-22 02:44:00,76.0,Medium
+P062,Doctor Consultation,2026-01-22 02:44:00,Lab Test,2026-01-22 03:56:00,72.0,Medium
+P062,Lab Test,2026-01-22 03:56:00,Treatment,2026-01-22 05:26:00,90.0,High
+P062,Treatment,2026-01-22 05:26:00,Discharge,2026-01-22 06:06:00,40.0,Low
+P063,Registration,2026-01-21 08:27:00,Triage,2026-01-21 09:11:00,44.0,Low
+P063,Triage,2026-01-21 09:11:00,Doctor Consultation,2026-01-21 10:03:00,52.0,Low
+P063,Doctor Consultation,2026-01-21 10:03:00,X-Ray,2026-01-21 10:53:00,50.0,Low
+P063,X-Ray,2026-01-21 10:53:00,Triage,2026-01-21 12:12:00,79.0,Medium
+P063,Triage,2026-01-21 12:12:00,Doctor Consultation,2026-01-21 12:32:00,20.0,Low
+P063,Doctor Consultation,2026-01-21 12:32:00,Lab Test,2026-01-21 12:59:00,27.0,Low
+P063,Lab Test,2026-01-21 12:59:00,Treatment,2026-01-21 13:28:00,29.0,Low
+P063,Treatment,2026-01-21 13:28:00,Discharge,2026-01-21 14:07:00,39.0,Low
+P064,Registration,2026-01-08 06:54:00,Triage,2026-01-08 08:13:00,79.0,Medium
+P064,Triage,2026-01-08 08:13:00,Doctor Consultation,2026-01-08 09:22:00,69.0,Medium
+P064,Doctor Consultation,2026-01-08 09:22:00,X-Ray,2026-01-08 10:25:00,63.0,Medium
+P064,X-Ray,2026-01-08 10:25:00,Lab Test,2026-01-08 10:42:00,17.0,Low
+P064,Lab Test,2026-01-08 10:42:00,Treatment,2026-01-08 11:18:00,36.0,Low
+P064,Treatment,2026-01-08 11:18:00,Discharge,2026-01-08 13:14:00,116.0,High
+P065,Registration,2026-01-19 01:24:00,Triage,2026-01-19 03:23:00,119.0,High
+P065,Triage,2026-01-19 03:23:00,Doctor Consultation,2026-01-19 05:10:00,107.0,High
+P065,Doctor Consultation,2026-01-19 05:10:00,Treatment,2026-01-19 06:33:00,83.0,Medium
+P065,Treatment,2026-01-19 06:33:00,Discharge,2026-01-19 07:31:00,58.0,Low
+P066,Registration,2026-01-01 14:26:00,Triage,2026-01-01 16:22:00,116.0,High
+P066,Triage,2026-01-01 16:22:00,Doctor Consultation,2026-01-01 17:25:00,63.0,Medium
+P066,Doctor Consultation,2026-01-01 17:25:00,X-Ray,2026-01-01 18:43:00,78.0,Medium
+P066,X-Ray,2026-01-01 18:43:00,Lab Test,2026-01-01 20:28:00,105.0,High
+P066,Lab Test,2026-01-01 20:28:00,Treatment,2026-01-01 22:12:00,104.0,High
+P066,Treatment,2026-01-01 22:12:00,Discharge,2026-01-01 23:31:00,79.0,Medium
+P067,Registration,2026-01-28 18:54:00,Triage,2026-01-28 20:06:00,72.0,Medium
+P067,Triage,2026-01-28 20:06:00,Doctor Consultation,2026-01-28 20:19:00,13.0,Low
+P067,Doctor Consultation,2026-01-28 20:19:00,X-Ray,2026-01-28 21:18:00,59.0,Low
+P067,X-Ray,2026-01-28 21:18:00,Lab Test,2026-01-28 22:11:00,53.0,Low
+P067,Lab Test,2026-01-28 22:11:00,Treatment,2026-01-28 23:46:00,95.0,High
+P067,Treatment,2026-01-28 23:46:00,Discharge,2026-01-29 01:22:00,96.0,High
+P068,Registration,2026-01-19 17:37:00,Triage,2026-01-19 19:06:00,89.0,Medium
+P068,Triage,2026-01-19 19:06:00,Doctor Consultation,2026-01-19 20:24:00,78.0,Medium
+P068,Doctor Consultation,2026-01-19 20:24:00,Treatment,2026-01-19 20:37:00,13.0,Low
+P068,Treatment,2026-01-19 20:37:00,Discharge,2026-01-19 21:37:00,60.0,Medium
+P069,Registration,2026-01-27 00:27:00,Triage,2026-01-27 02:27:00,120.0,High
+P069,Triage,2026-01-27 02:27:00,Doctor Consultation,2026-01-27 03:36:00,69.0,Medium
+P069,Doctor Consultation,2026-01-27 03:36:00,X-Ray,2026-01-27 04:09:00,33.0,Low
+P069,X-Ray,2026-01-27 04:09:00,Lab Test,2026-01-27 04:25:00,16.0,Low
+P069,Lab Test,2026-01-27 04:25:00,Treatment,2026-01-27 05:08:00,43.0,Low
+P069,Treatment,2026-01-27 05:08:00,Discharge,2026-01-27 06:06:00,58.0,Low
+P070,Registration,2026-01-10 23:11:00,Triage,2026-01-10 23:56:00,45.0,Low
+P070,Triage,2026-01-10 23:56:00,Doctor Consultation,2026-01-11 01:42:00,106.0,High
+P070,Doctor Consultation,2026-01-11 01:42:00,X-Ray,2026-01-11 03:38:00,116.0,High
+P070,X-Ray,2026-01-11 03:38:00,Treatment,2026-01-11 04:41:00,63.0,Medium
+P070,Treatment,2026-01-11 04:41:00,Discharge,2026-01-11 05:23:00,42.0,Low
+P071,Registration,2026-01-05 01:27:00,Triage,2026-01-05 02:21:00,54.0,Low
+P071,Triage,2026-01-05 02:21:00,Doctor Consultation,2026-01-05 02:59:00,38.0,Low
+P071,Doctor Consultation,2026-01-05 02:59:00,Lab Test,2026-01-05 04:32:00,93.0,High
+P071,Lab Test,2026-01-05 04:32:00,Treatment,2026-01-05 04:50:00,18.0,Low
+P071,Treatment,2026-01-05 04:50:00,Discharge,2026-01-05 06:39:00,109.0,High
+P072,Registration,2026-01-03 03:58:00,Triage,2026-01-03 04:10:00,12.0,Low
+P072,Triage,2026-01-03 04:10:00,Doctor Consultation,2026-01-03 05:39:00,89.0,Medium
+P072,Doctor Consultation,2026-01-03 05:39:00,Lab Test,2026-01-03 06:08:00,29.0,Low
+P072,Lab Test,2026-01-03 06:08:00,Treatment,2026-01-03 06:48:00,40.0,Low
+P072,Treatment,2026-01-03 06:48:00,Discharge,2026-01-03 07:14:00,26.0,Low
+P073,Registration,2026-01-06 12:56:00,Triage,2026-01-06 14:44:00,108.0,High
+P073,Triage,2026-01-06 14:44:00,Doctor Consultation,2026-01-06 15:41:00,57.0,Low
+P073,Doctor Consultation,2026-01-06 15:41:00,X-Ray,2026-01-06 16:12:00,31.0,Low
+P073,X-Ray,2026-01-06 16:12:00,Treatment,2026-01-06 17:39:00,87.0,Medium
+P073,Treatment,2026-01-06 17:39:00,Discharge,2026-01-06 19:06:00,87.0,Medium
+P074,Registration,2026-01-06 13:06:00,Triage,2026-01-06 14:30:00,84.0,Medium
+P074,Triage,2026-01-06 14:30:00,Doctor Consultation,2026-01-06 14:43:00,13.0,Low
+P074,Doctor Consultation,2026-01-06 14:43:00,X-Ray,2026-01-06 15:32:00,49.0,Low
+P074,X-Ray,2026-01-06 15:32:00,Lab Test,2026-01-06 16:55:00,83.0,Medium
+P074,Lab Test,2026-01-06 16:55:00,Treatment,2026-01-06 18:31:00,96.0,High
+P074,Treatment,2026-01-06 18:31:00,Discharge,2026-01-06 19:29:00,58.0,Low
+P075,Registration,2026-01-10 08:37:00,Triage,2026-01-10 10:07:00,90.0,High
+P075,Triage,2026-01-10 10:07:00,Doctor Consultation,2026-01-10 10:48:00,41.0,Low
+P075,Doctor Consultation,2026-01-10 10:48:00,X-Ray,2026-01-10 11:11:00,23.0,Low
+P075,X-Ray,2026-01-10 11:11:00,Triage,2026-01-10 12:50:00,99.0,High
+P075,Triage,2026-01-10 12:50:00,Doctor Consultation,2026-01-10 14:38:00,108.0,High
+P075,Doctor Consultation,2026-01-10 14:38:00,Treatment,2026-01-10 15:26:00,48.0,Low
+P075,Treatment,2026-01-10 15:26:00,Discharge,2026-01-10 17:24:00,118.0,High
+P076,Registration,2026-01-28 15:48:00,Triage,2026-01-28 16:03:00,15.0,Low
+P076,Triage,2026-01-28 16:03:00,Doctor Consultation,2026-01-28 16:57:00,54.0,Low
+P076,Doctor Consultation,2026-01-28 16:57:00,Lab Test,2026-01-28 18:15:00,78.0,Medium
+P076,Lab Test,2026-01-28 18:15:00,Treatment,2026-01-28 19:19:00,64.0,Medium
+P076,Treatment,2026-01-28 19:19:00,Discharge,2026-01-28 20:53:00,94.0,High
+P077,Registration,2026-01-04 11:19:00,Triage,2026-01-04 13:14:00,115.0,High
+P077,Triage,2026-01-04 13:14:00,Doctor Consultation,2026-01-04 14:26:00,72.0,Medium
+P077,Doctor Consultation,2026-01-04 14:26:00,X-Ray,2026-01-04 14:49:00,23.0,Low
+P077,X-Ray,2026-01-04 14:49:00,Treatment,2026-01-04 15:54:00,65.0,Medium
+P077,Treatment,2026-01-04 15:54:00,Discharge,2026-01-04 16:50:00,56.0,Low
+P078,Registration,2026-01-22 06:09:00,Triage,2026-01-22 07:42:00,93.0,High
+P078,Triage,2026-01-22 07:42:00,Doctor Consultation,2026-01-22 08:26:00,44.0,Low
+P078,Doctor Consultation,2026-01-22 08:26:00,X-Ray,2026-01-22 09:54:00,88.0,Medium
+P078,X-Ray,2026-01-22 09:54:00,Treatment,2026-01-22 11:47:00,113.0,High
+P078,Treatment,2026-01-22 11:47:00,Discharge,2026-01-22 13:05:00,78.0,Medium
+P079,Registration,2026-01-23 08:06:00,Triage,2026-01-23 08:57:00,51.0,Low
+P079,Triage,2026-01-23 08:57:00,Doctor Consultation,2026-01-23 10:56:00,119.0,High
+P079,Doctor Consultation,2026-01-23 10:56:00,Lab Test,2026-01-23 11:37:00,41.0,Low
+P079,Lab Test,2026-01-23 11:37:00,Treatment,2026-01-23 13:33:00,116.0,High
+P079,Treatment,2026-01-23 13:33:00,Discharge,2026-01-23 13:54:00,21.0,Low
+P080,Registration,2026-01-21 20:23:00,Triage,2026-01-21 21:51:00,88.0,Medium
+P080,Triage,2026-01-21 21:51:00,Doctor Consultation,2026-01-21 23:26:00,95.0,High
+P080,Doctor Consultation,2026-01-21 23:26:00,X-Ray,2026-01-22 00:24:00,58.0,Low
+P080,X-Ray,2026-01-22 00:24:00,Triage,2026-01-22 01:17:00,53.0,Low
+P080,Triage,2026-01-22 01:17:00,Doctor Consultation,2026-01-22 01:30:00,13.0,Low
+P080,Doctor Consultation,2026-01-22 01:30:00,Lab Test,2026-01-22 02:43:00,73.0,Medium
+P080,Lab Test,2026-01-22 02:43:00,Treatment,2026-01-22 04:41:00,118.0,High
+P080,Treatment,2026-01-22 04:41:00,Discharge,2026-01-22 05:32:00,51.0,Low
+P081,Registration,2026-01-23 12:32:00,Triage,2026-01-23 13:25:00,53.0,Low
+P081,Triage,2026-01-23 13:25:00,Doctor Consultation,2026-01-23 14:10:00,45.0,Low
+P081,Doctor Consultation,2026-01-23 14:10:00,X-Ray,2026-01-23 15:36:00,86.0,Medium
+P081,X-Ray,2026-01-23 15:36:00,Triage,2026-01-23 17:15:00,99.0,High
+P081,Triage,2026-01-23 17:15:00,Doctor Consultation,2026-01-23 18:00:00,45.0,Low
+P081,Doctor Consultation,2026-01-23 18:00:00,Treatment,2026-01-23 19:21:00,81.0,Medium
+P081,Treatment,2026-01-23 19:21:00,Discharge,2026-01-23 19:32:00,11.0,Low
+P082,Registration,2026-01-10 00:41:00,Triage,2026-01-10 01:53:00,72.0,Medium
+P082,Triage,2026-01-10 01:53:00,Doctor Consultation,2026-01-10 03:14:00,81.0,Medium
+P082,Doctor Consultation,2026-01-10 03:14:00,X-Ray,2026-01-10 05:01:00,107.0,High
+P082,X-Ray,2026-01-10 05:01:00,Triage,2026-01-10 05:41:00,40.0,Low
+P082,Triage,2026-01-10 05:41:00,Doctor Consultation,2026-01-10 07:19:00,98.0,High
+P082,Doctor Consultation,2026-01-10 07:19:00,Treatment,2026-01-10 08:29:00,70.0,Medium
+P082,Treatment,2026-01-10 08:29:00,Discharge,2026-01-10 10:01:00,92.0,High
+P083,Registration,2026-01-23 16:06:00,Triage,2026-01-23 17:07:00,61.0,Medium
+P083,Triage,2026-01-23 17:07:00,Doctor Consultation,2026-01-23 18:45:00,98.0,High
+P083,Doctor Consultation,2026-01-23 18:45:00,X-Ray,2026-01-23 19:26:00,41.0,Low
+P083,X-Ray,2026-01-23 19:26:00,Lab Test,2026-01-23 20:15:00,49.0,Low
+P083,Lab Test,2026-01-23 20:15:00,Treatment,2026-01-23 21:49:00,94.0,High
+P083,Treatment,2026-01-23 21:49:00,Discharge,2026-01-23 23:13:00,84.0,Medium
+P084,Registration,2026-01-22 20:55:00,Triage,2026-01-22 22:15:00,80.0,Medium
+P084,Triage,2026-01-22 22:15:00,Doctor Consultation,2026-01-22 23:07:00,52.0,Low
+P084,Doctor Consultation,2026-01-22 23:07:00,X-Ray,2026-01-23 00:02:00,55.0,Low
+P084,X-Ray,2026-01-23 00:02:00,Treatment,2026-01-23 01:41:00,99.0,High
+P084,Treatment,2026-01-23 01:41:00,Discharge,2026-01-23 02:49:00,68.0,Medium
+P085,Registration,2026-01-15 06:54:00,Triage,2026-01-15 07:28:00,34.0,Low
+P085,Triage,2026-01-15 07:28:00,Doctor Consultation,2026-01-15 08:18:00,50.0,Low
+P085,Doctor Consultation,2026-01-15 08:18:00,X-Ray,2026-01-15 08:43:00,25.0,Low
+P085,X-Ray,2026-01-15 08:43:00,Triage,2026-01-15 10:28:00,105.0,High
+P085,Triage,2026-01-15 10:28:00,Doctor Consultation,2026-01-15 11:46:00,78.0,Medium
+P085,Doctor Consultation,2026-01-15 11:46:00,Lab Test,2026-01-15 13:33:00,107.0,High
+P085,Lab Test,2026-01-15 13:33:00,Treatment,2026-01-15 15:11:00,98.0,High
+P085,Treatment,2026-01-15 15:11:00,Discharge,2026-01-15 15:44:00,33.0,Low
+P086,Registration,2026-01-11 04:20:00,Triage,2026-01-11 06:07:00,107.0,High
+P086,Triage,2026-01-11 06:07:00,Doctor Consultation,2026-01-11 07:24:00,77.0,Medium
+P086,Doctor Consultation,2026-01-11 07:24:00,X-Ray,2026-01-11 08:50:00,86.0,Medium
+P086,X-Ray,2026-01-11 08:50:00,Lab Test,2026-01-11 09:36:00,46.0,Low
+P086,Lab Test,2026-01-11 09:36:00,Treatment,2026-01-11 09:58:00,22.0,Low
+P086,Treatment,2026-01-11 09:58:00,Discharge,2026-01-11 11:54:00,116.0,High
+P087,Registration,2026-01-14 19:34:00,Triage,2026-01-14 19:45:00,11.0,Low
+P087,Triage,2026-01-14 19:45:00,Doctor Consultation,2026-01-14 21:25:00,100.0,High
+P087,Doctor Consultation,2026-01-14 21:25:00,X-Ray,2026-01-14 22:43:00,78.0,Medium
+P087,X-Ray,2026-01-14 22:43:00,Triage,2026-01-14 23:09:00,26.0,Low
+P087,Triage,2026-01-14 23:09:00,Doctor Consultation,2026-01-14 23:54:00,45.0,Low
+P087,Doctor Consultation,2026-01-14 23:54:00,Lab Test,2026-01-15 00:09:00,15.0,Low
+P087,Lab Test,2026-01-15 00:09:00,Treatment,2026-01-15 00:25:00,16.0,Low
+P087,Treatment,2026-01-15 00:25:00,Discharge,2026-01-15 01:45:00,80.0,Medium
+P088,Registration,2026-01-07 01:55:00,Triage,2026-01-07 02:06:00,11.0,Low
+P088,Triage,2026-01-07 02:06:00,Doctor Consultation,2026-01-07 03:29:00,83.0,Medium
+P088,Doctor Consultation,2026-01-07 03:29:00,Lab Test,2026-01-07 04:15:00,46.0,Low
+P088,Lab Test,2026-01-07 04:15:00,Treatment,2026-01-07 05:25:00,70.0,Medium
+P088,Treatment,2026-01-07 05:25:00,Discharge,2026-01-07 06:36:00,71.0,Medium
+P089,Registration,2026-01-16 20:08:00,Triage,2026-01-16 22:08:00,120.0,High
+P089,Triage,2026-01-16 22:08:00,Doctor Consultation,2026-01-16 23:19:00,71.0,Medium
+P089,Doctor Consultation,2026-01-16 23:19:00,X-Ray,2026-01-16 23:43:00,24.0,Low
+P089,X-Ray,2026-01-16 23:43:00,Triage,2026-01-17 01:38:00,115.0,High
+P089,Triage,2026-01-17 01:38:00,Doctor Consultation,2026-01-17 01:56:00,18.0,Low
+P089,Doctor Consultation,2026-01-17 01:56:00,Lab Test,2026-01-17 02:57:00,61.0,Medium
+P089,Lab Test,2026-01-17 02:57:00,Treatment,2026-01-17 04:09:00,72.0,Medium
+P089,Treatment,2026-01-17 04:09:00,Discharge,2026-01-17 04:28:00,19.0,Low
+P090,Registration,2026-01-29 23:31:00,Triage,2026-01-30 00:19:00,48.0,Low
+P090,Triage,2026-01-30 00:19:00,Doctor Consultation,2026-01-30 00:39:00,20.0,Low
+P090,Doctor Consultation,2026-01-30 00:39:00,X-Ray,2026-01-30 01:20:00,41.0,Low
+P090,X-Ray,2026-01-30 01:20:00,Treatment,2026-01-30 01:45:00,25.0,Low
+P090,Treatment,2026-01-30 01:45:00,Discharge,2026-01-30 03:06:00,81.0,Medium
+P091,Registration,2026-01-20 06:34:00,Triage,2026-01-20 07:50:00,76.0,Medium
+P091,Triage,2026-01-20 07:50:00,Doctor Consultation,2026-01-20 08:48:00,58.0,Low
+P091,Doctor Consultation,2026-01-20 08:48:00,Lab Test,2026-01-20 09:55:00,67.0,Medium
+P091,Lab Test,2026-01-20 09:55:00,Treatment,2026-01-20 11:01:00,66.0,Medium
+P091,Treatment,2026-01-20 11:01:00,Discharge,2026-01-20 11:49:00,48.0,Low
+P092,Registration,2026-01-28 02:49:00,Triage,2026-01-28 04:17:00,88.0,Medium
+P092,Triage,2026-01-28 04:17:00,Doctor Consultation,2026-01-28 06:01:00,104.0,High
+P092,Doctor Consultation,2026-01-28 06:01:00,X-Ray,2026-01-28 06:23:00,22.0,Low
+P092,X-Ray,2026-01-28 06:23:00,Treatment,2026-01-28 08:10:00,107.0,High
+P092,Treatment,2026-01-28 08:10:00,Discharge,2026-01-28 08:46:00,36.0,Low
+P093,Registration,2026-01-10 22:29:00,Triage,2026-01-10 23:09:00,40.0,Low
+P093,Triage,2026-01-10 23:09:00,Doctor Consultation,2026-01-10 23:41:00,32.0,Low
+P093,Doctor Consultation,2026-01-10 23:41:00,X-Ray,2026-01-11 01:01:00,80.0,Medium
+P093,X-Ray,2026-01-11 01:01:00,Triage,2026-01-11 01:20:00,19.0,Low
+P093,Triage,2026-01-11 01:20:00,Doctor Consultation,2026-01-11 01:50:00,30.0,Low
+P093,Doctor Consultation,2026-01-11 01:50:00,Lab Test,2026-01-11 02:00:00,10.0,Low
+P093,Lab Test,2026-01-11 02:00:00,Treatment,2026-01-11 03:02:00,62.0,Medium
+P093,Treatment,2026-01-11 03:02:00,Discharge,2026-01-11 04:09:00,67.0,Medium
+P094,Registration,2026-01-28 08:36:00,Triage,2026-01-28 09:22:00,46.0,Low
+P094,Triage,2026-01-28 09:22:00,Doctor Consultation,2026-01-28 11:01:00,99.0,High
+P094,Doctor Consultation,2026-01-28 11:01:00,X-Ray,2026-01-28 13:01:00,120.0,High
+P094,X-Ray,2026-01-28 13:01:00,Lab Test,2026-01-28 14:09:00,68.0,Medium
+P094,Lab Test,2026-01-28 14:09:00,Treatment,2026-01-28 14:28:00,19.0,Low
+P094,Treatment,2026-01-28 14:28:00,Discharge,2026-01-28 16:05:00,97.0,High
+P095,Registration,2026-01-13 08:57:00,Triage,2026-01-13 09:32:00,35.0,Low
+P095,Triage,2026-01-13 09:32:00,Doctor Consultation,2026-01-13 10:36:00,64.0,Medium
+P095,Doctor Consultation,2026-01-13 10:36:00,Treatment,2026-01-13 11:00:00,24.0,Low
+P095,Treatment,2026-01-13 11:00:00,Discharge,2026-01-13 12:19:00,79.0,Medium
+P096,Registration,2026-01-30 19:23:00,Triage,2026-01-30 19:51:00,28.0,Low
+P096,Triage,2026-01-30 19:51:00,Doctor Consultation,2026-01-30 20:10:00,19.0,Low
+P096,Doctor Consultation,2026-01-30 20:10:00,X-Ray,2026-01-30 20:27:00,17.0,Low
+P096,X-Ray,2026-01-30 20:27:00,Triage,2026-01-30 20:58:00,31.0,Low
+P096,Triage,2026-01-30 20:58:00,Doctor Consultation,2026-01-30 22:49:00,111.0,High
+P096,Doctor Consultation,2026-01-30 22:49:00,Lab Test,2026-01-30 23:38:00,49.0,Low
+P096,Lab Test,2026-01-30 23:38:00,Treatment,2026-01-31 01:04:00,86.0,Medium
+P096,Treatment,2026-01-31 01:04:00,Discharge,2026-01-31 02:49:00,105.0,High
+P097,Registration,2026-01-27 05:43:00,Triage,2026-01-27 06:31:00,48.0,Low
+P097,Triage,2026-01-27 06:31:00,Doctor Consultation,2026-01-27 08:10:00,99.0,High
+P097,Doctor Consultation,2026-01-27 08:10:00,X-Ray,2026-01-27 09:11:00,61.0,Medium
+P097,X-Ray,2026-01-27 09:11:00,Lab Test,2026-01-27 09:55:00,44.0,Low
+P097,Lab Test,2026-01-27 09:55:00,Treatment,2026-01-27 11:09:00,74.0,Medium
+P097,Treatment,2026-01-27 11:09:00,Discharge,2026-01-27 12:28:00,79.0,Medium
+P098,Registration,2026-01-21 06:08:00,Triage,2026-01-21 07:13:00,65.0,Medium
+P098,Triage,2026-01-21 07:13:00,Doctor Consultation,2026-01-21 08:57:00,104.0,High
+P098,Doctor Consultation,2026-01-21 08:57:00,X-Ray,2026-01-21 09:48:00,51.0,Low
+P098,X-Ray,2026-01-21 09:48:00,Triage,2026-01-21 11:15:00,87.0,Medium
+P098,Triage,2026-01-21 11:15:00,Doctor Consultation,2026-01-21 11:57:00,42.0,Low
+P098,Doctor Consultation,2026-01-21 11:57:00,Lab Test,2026-01-21 12:10:00,13.0,Low
+P098,Lab Test,2026-01-21 12:10:00,Treatment,2026-01-21 12:31:00,21.0,Low
+P098,Treatment,2026-01-21 12:31:00,Discharge,2026-01-21 13:10:00,39.0,Low
+P099,Registration,2026-01-27 12:16:00,Triage,2026-01-27 14:11:00,115.0,High
+P099,Triage,2026-01-27 14:11:00,Doctor Consultation,2026-01-27 14:55:00,44.0,Low
+P099,Doctor Consultation,2026-01-27 14:55:00,X-Ray,2026-01-27 16:18:00,83.0,Medium
+P099,X-Ray,2026-01-27 16:18:00,Treatment,2026-01-27 16:33:00,15.0,Low
+P099,Treatment,2026-01-27 16:33:00,Discharge,2026-01-27 18:20:00,107.0,High
+P100,Registration,2026-01-09 07:21:00,Triage,2026-01-09 07:54:00,33.0,Low
+P100,Triage,2026-01-09 07:54:00,Doctor Consultation,2026-01-09 09:18:00,84.0,Medium
+P100,Doctor Consultation,2026-01-09 09:18:00,Treatment,2026-01-09 10:23:00,65.0,Medium
+P100,Treatment,2026-01-09 10:23:00,Discharge,2026-01-09 11:54:00,91.0,High
+P101,Registration,2026-01-23 17:05:00,Triage,2026-01-23 17:56:00,51.0,Low
+P101,Triage,2026-01-23 17:56:00,Doctor Consultation,2026-01-23 19:31:00,95.0,High
+P101,Doctor Consultation,2026-01-23 19:31:00,X-Ray,2026-01-23 19:54:00,23.0,Low
+P101,X-Ray,2026-01-23 19:54:00,Lab Test,2026-01-23 21:53:00,119.0,High
+P101,Lab Test,2026-01-23 21:53:00,Treatment,2026-01-23 22:23:00,30.0,Low
+P101,Treatment,2026-01-23 22:23:00,Discharge,2026-01-23 23:15:00,52.0,Low
+P102,Registration,2026-01-23 21:11:00,Triage,2026-01-23 23:05:00,114.0,High
+P102,Triage,2026-01-23 23:05:00,Doctor Consultation,2026-01-24 00:52:00,107.0,High
+P102,Doctor Consultation,2026-01-24 00:52:00,X-Ray,2026-01-24 02:12:00,80.0,Medium
+P102,X-Ray,2026-01-24 02:12:00,Triage,2026-01-24 02:26:00,14.0,Low
+P102,Triage,2026-01-24 02:26:00,Doctor Consultation,2026-01-24 03:34:00,68.0,Medium
+P102,Doctor Consultation,2026-01-24 03:34:00,Treatment,2026-01-24 03:55:00,21.0,Low
+P102,Treatment,2026-01-24 03:55:00,Discharge,2026-01-24 04:45:00,50.0,Low
+P103,Registration,2026-01-16 01:06:00,Triage,2026-01-16 03:06:00,120.0,High
+P103,Triage,2026-01-16 03:06:00,Doctor Consultation,2026-01-16 04:21:00,75.0,Medium
+P103,Doctor Consultation,2026-01-16 04:21:00,X-Ray,2026-01-16 06:16:00,115.0,High
+P103,X-Ray,2026-01-16 06:16:00,Triage,2026-01-16 06:26:00,10.0,Low
+P103,Triage,2026-01-16 06:26:00,Doctor Consultation,2026-01-16 08:00:00,94.0,High
+P103,Doctor Consultation,2026-01-16 08:00:00,Treatment,2026-01-16 09:19:00,79.0,Medium
+P103,Treatment,2026-01-16 09:19:00,Discharge,2026-01-16 10:28:00,69.0,Medium
+P104,Registration,2026-01-03 19:12:00,Triage,2026-01-03 20:58:00,106.0,High
+P104,Triage,2026-01-03 20:58:00,Doctor Consultation,2026-01-03 22:11:00,73.0,Medium
+P104,Doctor Consultation,2026-01-03 22:11:00,X-Ray,2026-01-03 23:41:00,90.0,High
+P104,X-Ray,2026-01-03 23:41:00,Triage,2026-01-04 00:47:00,66.0,Medium
+P104,Triage,2026-01-04 00:47:00,Doctor Consultation,2026-01-04 02:34:00,107.0,High
+P104,Doctor Consultation,2026-01-04 02:34:00,Lab Test,2026-01-04 02:50:00,16.0,Low
+P104,Lab Test,2026-01-04 02:50:00,Treatment,2026-01-04 03:26:00,36.0,Low
+P104,Treatment,2026-01-04 03:26:00,Discharge,2026-01-04 04:10:00,44.0,Low
+P105,Registration,2026-01-07 07:06:00,Triage,2026-01-07 07:31:00,25.0,Low
+P105,Triage,2026-01-07 07:31:00,Doctor Consultation,2026-01-07 07:44:00,13.0,Low
+P105,Doctor Consultation,2026-01-07 07:44:00,X-Ray,2026-01-07 09:14:00,90.0,High
+P105,X-Ray,2026-01-07 09:14:00,Treatment,2026-01-07 10:41:00,87.0,Medium
+P105,Treatment,2026-01-07 10:41:00,Discharge,2026-01-07 12:33:00,112.0,High
+P106,Registration,2026-01-08 12:59:00,Triage,2026-01-08 13:37:00,38.0,Low
+P106,Triage,2026-01-08 13:37:00,Doctor Consultation,2026-01-08 15:34:00,117.0,High
+P106,Doctor Consultation,2026-01-08 15:34:00,X-Ray,2026-01-08 15:58:00,24.0,Low
+P106,X-Ray,2026-01-08 15:58:00,Lab Test,2026-01-08 17:07:00,69.0,Medium
+P106,Lab Test,2026-01-08 17:07:00,Treatment,2026-01-08 17:32:00,25.0,Low
+P106,Treatment,2026-01-08 17:32:00,Discharge,2026-01-08 19:04:00,92.0,High
+P107,Registration,2026-01-08 08:10:00,Triage,2026-01-08 08:54:00,44.0,Low
+P107,Triage,2026-01-08 08:54:00,Doctor Consultation,2026-01-08 09:57:00,63.0,Medium
+P107,Doctor Consultation,2026-01-08 09:57:00,Lab Test,2026-01-08 11:53:00,116.0,High
+P107,Lab Test,2026-01-08 11:53:00,Treatment,2026-01-08 13:04:00,71.0,Medium
+P107,Treatment,2026-01-08 13:04:00,Discharge,2026-01-08 14:14:00,70.0,Medium
+P108,Registration,2026-01-22 02:55:00,Triage,2026-01-22 04:10:00,75.0,Medium
+P108,Triage,2026-01-22 04:10:00,Doctor Consultation,2026-01-22 05:55:00,105.0,High
+P108,Doctor Consultation,2026-01-22 05:55:00,X-Ray,2026-01-22 06:22:00,27.0,Low
+P108,X-Ray,2026-01-22 06:22:00,Treatment,2026-01-22 08:22:00,120.0,High
+P108,Treatment,2026-01-22 08:22:00,Discharge,2026-01-22 08:40:00,18.0,Low
+P109,Registration,2026-01-20 05:13:00,Triage,2026-01-20 05:23:00,10.0,Low
+P109,Triage,2026-01-20 05:23:00,Doctor Consultation,2026-01-20 06:09:00,46.0,Low
+P109,Doctor Consultation,2026-01-20 06:09:00,Lab Test,2026-01-20 07:51:00,102.0,High
+P109,Lab Test,2026-01-20 07:51:00,Treatment,2026-01-20 08:39:00,48.0,Low
+P109,Treatment,2026-01-20 08:39:00,Discharge,2026-01-20 10:36:00,117.0,High
+P110,Registration,2026-01-27 17:25:00,Triage,2026-01-27 18:43:00,78.0,Medium
+P110,Triage,2026-01-27 18:43:00,Doctor Consultation,2026-01-27 19:54:00,71.0,Medium
+P110,Doctor Consultation,2026-01-27 19:54:00,X-Ray,2026-01-27 20:48:00,54.0,Low
+P110,X-Ray,2026-01-27 20:48:00,Lab Test,2026-01-27 21:40:00,52.0,Low
+P110,Lab Test,2026-01-27 21:40:00,Treatment,2026-01-27 23:00:00,80.0,Medium
+P110,Treatment,2026-01-27 23:00:00,Discharge,2026-01-28 00:47:00,107.0,High
+P111,Registration,2026-01-18 12:00:00,Triage,2026-01-18 13:39:00,99.0,High
+P111,Triage,2026-01-18 13:39:00,Doctor Consultation,2026-01-18 14:19:00,40.0,Low
+P111,Doctor Consultation,2026-01-18 14:19:00,X-Ray,2026-01-18 15:42:00,83.0,Medium
+P111,X-Ray,2026-01-18 15:42:00,Lab Test,2026-01-18 16:41:00,59.0,Low
+P111,Lab Test,2026-01-18 16:41:00,Treatment,2026-01-18 17:20:00,39.0,Low
+P111,Treatment,2026-01-18 17:20:00,Discharge,2026-01-18 19:19:00,119.0,High
+P112,Registration,2026-01-20 00:40:00,Triage,2026-01-20 02:20:00,100.0,High
+P112,Triage,2026-01-20 02:20:00,Doctor Consultation,2026-01-20 04:13:00,113.0,High
+P112,Doctor Consultation,2026-01-20 04:13:00,X-Ray,2026-01-20 05:11:00,58.0,Low
+P112,X-Ray,2026-01-20 05:11:00,Triage,2026-01-20 06:10:00,59.0,Low
+P112,Triage,2026-01-20 06:10:00,Doctor Consultation,2026-01-20 07:44:00,94.0,High
+P112,Doctor Consultation,2026-01-20 07:44:00,Treatment,2026-01-20 09:35:00,111.0,High
+P112,Treatment,2026-01-20 09:35:00,Discharge,2026-01-20 11:30:00,115.0,High
+P113,Registration,2026-01-08 06:08:00,Triage,2026-01-08 07:33:00,85.0,Medium
+P113,Triage,2026-01-08 07:33:00,Doctor Consultation,2026-01-08 08:25:00,52.0,Low
+P113,Doctor Consultation,2026-01-08 08:25:00,X-Ray,2026-01-08 08:47:00,22.0,Low
+P113,X-Ray,2026-01-08 08:47:00,Lab Test,2026-01-08 10:45:00,118.0,High
+P113,Lab Test,2026-01-08 10:45:00,Treatment,2026-01-08 11:51:00,66.0,Medium
+P113,Treatment,2026-01-08 11:51:00,Discharge,2026-01-08 12:13:00,22.0,Low
+P114,Registration,2026-01-22 03:05:00,Triage,2026-01-22 04:38:00,93.0,High
+P114,Triage,2026-01-22 04:38:00,Doctor Consultation,2026-01-22 05:07:00,29.0,Low
+P114,Doctor Consultation,2026-01-22 05:07:00,X-Ray,2026-01-22 05:26:00,19.0,Low
+P114,X-Ray,2026-01-22 05:26:00,Triage,2026-01-22 06:36:00,70.0,Medium
+P114,Triage,2026-01-22 06:36:00,Doctor Consultation,2026-01-22 08:26:00,110.0,High
+P114,Doctor Consultation,2026-01-22 08:26:00,Lab Test,2026-01-22 09:09:00,43.0,Low
+P114,Lab Test,2026-01-22 09:09:00,Treatment,2026-01-22 10:02:00,53.0,Low
+P114,Treatment,2026-01-22 10:02:00,Discharge,2026-01-22 11:31:00,89.0,Medium
+P115,Registration,2026-01-19 10:09:00,Triage,2026-01-19 12:08:00,119.0,High
+P115,Triage,2026-01-19 12:08:00,Doctor Consultation,2026-01-19 13:26:00,78.0,Medium
+P115,Doctor Consultation,2026-01-19 13:26:00,Treatment,2026-01-19 14:24:00,58.0,Low
+P115,Treatment,2026-01-19 14:24:00,Discharge,2026-01-19 15:14:00,50.0,Low
+P116,Registration,2026-01-23 12:58:00,Triage,2026-01-23 14:28:00,90.0,High
+P116,Triage,2026-01-23 14:28:00,Doctor Consultation,2026-01-23 16:05:00,97.0,High
+P116,Doctor Consultation,2026-01-23 16:05:00,X-Ray,2026-01-23 16:51:00,46.0,Low
+P116,X-Ray,2026-01-23 16:51:00,Lab Test,2026-01-23 17:30:00,39.0,Low
+P116,Lab Test,2026-01-23 17:30:00,Treatment,2026-01-23 19:15:00,105.0,High
+P116,Treatment,2026-01-23 19:15:00,Discharge,2026-01-23 19:36:00,21.0,Low
+P117,Registration,2026-01-05 19:31:00,Triage,2026-01-05 20:02:00,31.0,Low
+P117,Triage,2026-01-05 20:02:00,Doctor Consultation,2026-01-05 21:40:00,98.0,High
+P117,Doctor Consultation,2026-01-05 21:40:00,Lab Test,2026-01-05 22:28:00,48.0,Low
+P117,Lab Test,2026-01-05 22:28:00,Treatment,2026-01-05 22:41:00,13.0,Low
+P117,Treatment,2026-01-05 22:41:00,Discharge,2026-01-05 22:56:00,15.0,Low
+P118,Registration,2026-01-03 21:17:00,Triage,2026-01-03 21:45:00,28.0,Low
+P118,Triage,2026-01-03 21:45:00,Doctor Consultation,2026-01-03 22:26:00,41.0,Low
+P118,Doctor Consultation,2026-01-03 22:26:00,X-Ray,2026-01-03 23:43:00,77.0,Medium
+P118,X-Ray,2026-01-03 23:43:00,Triage,2026-01-04 00:45:00,62.0,Medium
+P118,Triage,2026-01-04 00:45:00,Doctor Consultation,2026-01-04 02:07:00,82.0,Medium
+P118,Doctor Consultation,2026-01-04 02:07:00,Lab Test,2026-01-04 03:44:00,97.0,High
+P118,Lab Test,2026-01-04 03:44:00,Treatment,2026-01-04 05:35:00,111.0,High
+P118,Treatment,2026-01-04 05:35:00,Discharge,2026-01-04 06:08:00,33.0,Low
+P119,Registration,2026-01-09 07:13:00,Triage,2026-01-09 08:42:00,89.0,Medium
+P119,Triage,2026-01-09 08:42:00,Doctor Consultation,2026-01-09 10:19:00,97.0,High
+P119,Doctor Consultation,2026-01-09 10:19:00,X-Ray,2026-01-09 10:59:00,40.0,Low
+P119,X-Ray,2026-01-09 10:59:00,Triage,2026-01-09 12:12:00,73.0,Medium
+P119,Triage,2026-01-09 12:12:00,Doctor Consultation,2026-01-09 13:36:00,84.0,Medium
+P119,Doctor Consultation,2026-01-09 13:36:00,Treatment,2026-01-09 14:04:00,28.0,Low
+P119,Treatment,2026-01-09 14:04:00,Discharge,2026-01-09 14:43:00,39.0,Low
+P120,Registration,2026-01-30 08:45:00,Triage,2026-01-30 08:56:00,11.0,Low
+P120,Triage,2026-01-30 08:56:00,Doctor Consultation,2026-01-30 10:48:00,112.0,High
+P120,Doctor Consultation,2026-01-30 10:48:00,X-Ray,2026-01-30 11:57:00,69.0,Medium
+P120,X-Ray,2026-01-30 11:57:00,Triage,2026-01-30 12:43:00,46.0,Low
+P120,Triage,2026-01-30 12:43:00,Doctor Consultation,2026-01-30 14:19:00,96.0,High
+P120,Doctor Consultation,2026-01-30 14:19:00,Lab Test,2026-01-30 15:38:00,79.0,Medium
+P120,Lab Test,2026-01-30 15:38:00,Treatment,2026-01-30 16:08:00,30.0,Low
+P120,Treatment,2026-01-30 16:08:00,Discharge,2026-01-30 16:27:00,19.0,Low
+P121,Registration,2026-01-17 01:26:00,Triage,2026-01-17 03:04:00,98.0,High
+P121,Triage,2026-01-17 03:04:00,Doctor Consultation,2026-01-17 03:46:00,42.0,Low
+P121,Doctor Consultation,2026-01-17 03:46:00,X-Ray,2026-01-17 04:54:00,68.0,Medium
+P121,X-Ray,2026-01-17 04:54:00,Treatment,2026-01-17 06:52:00,118.0,High
+P121,Treatment,2026-01-17 06:52:00,Discharge,2026-01-17 07:40:00,48.0,Low
+P122,Registration,2026-01-18 20:11:00,Triage,2026-01-18 21:06:00,55.0,Low
+P122,Triage,2026-01-18 21:06:00,Doctor Consultation,2026-01-18 22:29:00,83.0,Medium
+P122,Doctor Consultation,2026-01-18 22:29:00,X-Ray,2026-01-18 23:16:00,47.0,Low
+P122,X-Ray,2026-01-18 23:16:00,Lab Test,2026-01-19 00:55:00,99.0,High
+P122,Lab Test,2026-01-19 00:55:00,Treatment,2026-01-19 01:42:00,47.0,Low
+P122,Treatment,2026-01-19 01:42:00,Discharge,2026-01-19 01:54:00,12.0,Low
+P123,Registration,2026-01-31 06:57:00,Triage,2026-01-31 08:46:00,109.0,High
+P123,Triage,2026-01-31 08:46:00,Doctor Consultation,2026-01-31 10:31:00,105.0,High
+P123,Doctor Consultation,2026-01-31 10:31:00,X-Ray,2026-01-31 10:47:00,16.0,Low
+P123,X-Ray,2026-01-31 10:47:00,Treatment,2026-01-31 12:14:00,87.0,Medium
+P123,Treatment,2026-01-31 12:14:00,Discharge,2026-01-31 13:59:00,105.0,High
+P124,Registration,2026-01-14 08:36:00,Triage,2026-01-14 09:14:00,38.0,Low
+P124,Triage,2026-01-14 09:14:00,Doctor Consultation,2026-01-14 10:45:00,91.0,High
+P124,Doctor Consultation,2026-01-14 10:45:00,X-Ray,2026-01-14 11:19:00,34.0,Low
+P124,X-Ray,2026-01-14 11:19:00,Treatment,2026-01-14 12:48:00,89.0,Medium
+P124,Treatment,2026-01-14 12:48:00,Discharge,2026-01-14 13:30:00,42.0,Low
+P125,Registration,2026-01-31 08:00:00,Triage,2026-01-31 09:30:00,90.0,High
+P125,Triage,2026-01-31 09:30:00,Doctor Consultation,2026-01-31 11:02:00,92.0,High
+P125,Doctor Consultation,2026-01-31 11:02:00,X-Ray,2026-01-31 11:17:00,15.0,Low
+P125,X-Ray,2026-01-31 11:17:00,Lab Test,2026-01-31 12:06:00,49.0,Low
+P125,Lab Test,2026-01-31 12:06:00,Treatment,2026-01-31 13:56:00,110.0,High
+P125,Treatment,2026-01-31 13:56:00,Discharge,2026-01-31 15:02:00,66.0,Medium
+P126,Registration,2026-01-27 17:02:00,Triage,2026-01-27 17:53:00,51.0,Low
+P126,Triage,2026-01-27 17:53:00,Doctor Consultation,2026-01-27 19:38:00,105.0,High
+P126,Doctor Consultation,2026-01-27 19:38:00,X-Ray,2026-01-27 20:41:00,63.0,Medium
+P126,X-Ray,2026-01-27 20:41:00,Treatment,2026-01-27 21:13:00,32.0,Low
+P126,Treatment,2026-01-27 21:13:00,Discharge,2026-01-27 21:48:00,35.0,Low
+P127,Registration,2026-01-25 21:10:00,Triage,2026-01-25 21:54:00,44.0,Low
+P127,Triage,2026-01-25 21:54:00,Doctor Consultation,2026-01-25 23:50:00,116.0,High
+P127,Doctor Consultation,2026-01-25 23:50:00,X-Ray,2026-01-26 00:21:00,31.0,Low
+P127,X-Ray,2026-01-26 00:21:00,Lab Test,2026-01-26 01:03:00,42.0,Low
+P127,Lab Test,2026-01-26 01:03:00,Treatment,2026-01-26 02:58:00,115.0,High
+P127,Treatment,2026-01-26 02:58:00,Discharge,2026-01-26 04:09:00,71.0,Medium
+P128,Registration,2026-01-14 18:22:00,Triage,2026-01-14 18:41:00,19.0,Low
+P128,Triage,2026-01-14 18:41:00,Doctor Consultation,2026-01-14 19:09:00,28.0,Low
+P128,Doctor Consultation,2026-01-14 19:09:00,X-Ray,2026-01-14 20:55:00,106.0,High
+P128,X-Ray,2026-01-14 20:55:00,Lab Test,2026-01-14 21:33:00,38.0,Low
+P128,Lab Test,2026-01-14 21:33:00,Treatment,2026-01-14 23:33:00,120.0,High
+P128,Treatment,2026-01-14 23:33:00,Discharge,2026-01-15 01:09:00,96.0,High
+P129,Registration,2026-01-19 10:04:00,Triage,2026-01-19 11:55:00,111.0,High
+P129,Triage,2026-01-19 11:55:00,Doctor Consultation,2026-01-19 12:55:00,60.0,Medium
+P129,Doctor Consultation,2026-01-19 12:55:00,Lab Test,2026-01-19 13:06:00,11.0,Low
+P129,Lab Test,2026-01-19 13:06:00,Treatment,2026-01-19 13:49:00,43.0,Low
+P129,Treatment,2026-01-19 13:49:00,Discharge,2026-01-19 15:07:00,78.0,Medium
+P130,Registration,2026-01-22 00:44:00,Triage,2026-01-22 01:42:00,58.0,Low
+P130,Triage,2026-01-22 01:42:00,Doctor Consultation,2026-01-22 03:37:00,115.0,High
+P130,Doctor Consultation,2026-01-22 03:37:00,Lab Test,2026-01-22 05:08:00,91.0,High
+P130,Lab Test,2026-01-22 05:08:00,Treatment,2026-01-22 06:05:00,57.0,Low
+P130,Treatment,2026-01-22 06:05:00,Discharge,2026-01-22 06:28:00,23.0,Low
+P131,Registration,2026-01-11 23:23:00,Triage,2026-01-12 00:14:00,51.0,Low
+P131,Triage,2026-01-12 00:14:00,Doctor Consultation,2026-01-12 01:42:00,88.0,Medium
+P131,Doctor Consultation,2026-01-12 01:42:00,Treatment,2026-01-12 02:20:00,38.0,Low
+P131,Treatment,2026-01-12 02:20:00,Discharge,2026-01-12 03:52:00,92.0,High
+P132,Registration,2026-01-30 06:01:00,Triage,2026-01-30 07:03:00,62.0,Medium
+P132,Triage,2026-01-30 07:03:00,Doctor Consultation,2026-01-30 07:27:00,24.0,Low
+P132,Doctor Consultation,2026-01-30 07:27:00,Lab Test,2026-01-30 07:54:00,27.0,Low
+P132,Lab Test,2026-01-30 07:54:00,Treatment,2026-01-30 08:09:00,15.0,Low
+P132,Treatment,2026-01-30 08:09:00,Discharge,2026-01-30 08:23:00,14.0,Low
+P133,Registration,2026-01-23 18:04:00,Triage,2026-01-23 19:22:00,78.0,Medium
+P133,Triage,2026-01-23 19:22:00,Doctor Consultation,2026-01-23 19:49:00,27.0,Low
+P133,Doctor Consultation,2026-01-23 19:49:00,X-Ray,2026-01-23 20:48:00,59.0,Low
+P133,X-Ray,2026-01-23 20:48:00,Triage,2026-01-23 21:56:00,68.0,Medium
+P133,Triage,2026-01-23 21:56:00,Doctor Consultation,2026-01-23 22:53:00,57.0,Low
+P133,Doctor Consultation,2026-01-23 22:53:00,Lab Test,2026-01-24 00:28:00,95.0,High
+P133,Lab Test,2026-01-24 00:28:00,Treatment,2026-01-24 02:13:00,105.0,High
+P133,Treatment,2026-01-24 02:13:00,Discharge,2026-01-24 03:52:00,99.0,High
+P134,Registration,2026-01-20 09:47:00,Triage,2026-01-20 11:20:00,93.0,High
+P134,Triage,2026-01-20 11:20:00,Doctor Consultation,2026-01-20 11:42:00,22.0,Low
+P134,Doctor Consultation,2026-01-20 11:42:00,Treatment,2026-01-20 13:38:00,116.0,High
+P134,Treatment,2026-01-20 13:38:00,Discharge,2026-01-20 14:50:00,72.0,Medium
+P135,Registration,2026-01-19 21:46:00,Triage,2026-01-19 22:23:00,37.0,Low
+P135,Triage,2026-01-19 22:23:00,Doctor Consultation,2026-01-19 23:29:00,66.0,Medium
+P135,Doctor Consultation,2026-01-19 23:29:00,X-Ray,2026-01-20 00:35:00,66.0,Medium
+P135,X-Ray,2026-01-20 00:35:00,Treatment,2026-01-20 01:15:00,40.0,Low
+P135,Treatment,2026-01-20 01:15:00,Discharge,2026-01-20 03:14:00,119.0,High
+P136,Registration,2026-01-05 20:31:00,Triage,2026-01-05 22:03:00,92.0,High
+P136,Triage,2026-01-05 22:03:00,Doctor Consultation,2026-01-05 22:58:00,55.0,Low
+P136,Doctor Consultation,2026-01-05 22:58:00,X-Ray,2026-01-05 23:15:00,17.0,Low
+P136,X-Ray,2026-01-05 23:15:00,Treatment,2026-01-06 00:15:00,60.0,Medium
+P136,Treatment,2026-01-06 00:15:00,Discharge,2026-01-06 01:00:00,45.0,Low
+P137,Registration,2026-01-06 21:25:00,Triage,2026-01-06 22:02:00,37.0,Low
+P137,Triage,2026-01-06 22:02:00,Doctor Consultation,2026-01-06 23:34:00,92.0,High
+P137,Doctor Consultation,2026-01-06 23:34:00,Lab Test,2026-01-07 01:05:00,91.0,High
+P137,Lab Test,2026-01-07 01:05:00,Treatment,2026-01-07 02:31:00,86.0,Medium
+P137,Treatment,2026-01-07 02:31:00,Discharge,2026-01-07 02:43:00,12.0,Low
+P138,Registration,2026-01-16 12:16:00,Triage,2026-01-16 13:38:00,82.0,Medium
+P138,Triage,2026-01-16 13:38:00,Doctor Consultation,2026-01-16 14:14:00,36.0,Low
+P138,Doctor Consultation,2026-01-16 14:14:00,X-Ray,2026-01-16 14:32:00,18.0,Low
+P138,X-Ray,2026-01-16 14:32:00,Triage,2026-01-16 16:28:00,116.0,High
+P138,Triage,2026-01-16 16:28:00,Doctor Consultation,2026-01-16 18:15:00,107.0,High
+P138,Doctor Consultation,2026-01-16 18:15:00,Lab Test,2026-01-16 19:35:00,80.0,Medium
+P138,Lab Test,2026-01-16 19:35:00,Treatment,2026-01-16 20:11:00,36.0,Low
+P138,Treatment,2026-01-16 20:11:00,Discharge,2026-01-16 21:36:00,85.0,Medium
+P139,Registration,2026-01-11 22:29:00,Triage,2026-01-11 22:39:00,10.0,Low
+P139,Triage,2026-01-11 22:39:00,Doctor Consultation,2026-01-11 23:24:00,45.0,Low
+P139,Doctor Consultation,2026-01-11 23:24:00,X-Ray,2026-01-12 01:23:00,119.0,High
+P139,X-Ray,2026-01-12 01:23:00,Treatment,2026-01-12 01:51:00,28.0,Low
+P139,Treatment,2026-01-12 01:51:00,Discharge,2026-01-12 02:17:00,26.0,Low
+P140,Registration,2026-01-12 17:46:00,Triage,2026-01-12 18:12:00,26.0,Low
+P140,Triage,2026-01-12 18:12:00,Doctor Consultation,2026-01-12 18:23:00,11.0,Low
+P140,Doctor Consultation,2026-01-12 18:23:00,X-Ray,2026-01-12 19:18:00,55.0,Low
+P140,X-Ray,2026-01-12 19:18:00,Treatment,2026-01-12 21:09:00,111.0,High
+P140,Treatment,2026-01-12 21:09:00,Discharge,2026-01-12 22:59:00,110.0,High
+P141,Registration,2026-01-28 03:11:00,Triage,2026-01-28 04:55:00,104.0,High
+P141,Triage,2026-01-28 04:55:00,Doctor Consultation,2026-01-28 05:58:00,63.0,Medium
+P141,Doctor Consultation,2026-01-28 05:58:00,X-Ray,2026-01-28 07:15:00,77.0,Medium
+P141,X-Ray,2026-01-28 07:15:00,Lab Test,2026-01-28 07:39:00,24.0,Low
+P141,Lab Test,2026-01-28 07:39:00,Treatment,2026-01-28 09:24:00,105.0,High
+P141,Treatment,2026-01-28 09:24:00,Discharge,2026-01-28 09:42:00,18.0,Low
+P142,Registration,2026-01-21 17:38:00,Triage,2026-01-21 18:52:00,74.0,Medium
+P142,Triage,2026-01-21 18:52:00,Doctor Consultation,2026-01-21 19:30:00,38.0,Low
+P142,Doctor Consultation,2026-01-21 19:30:00,Lab Test,2026-01-21 20:58:00,88.0,Medium
+P142,Lab Test,2026-01-21 20:58:00,Treatment,2026-01-21 21:13:00,15.0,Low
+P142,Treatment,2026-01-21 21:13:00,Discharge,2026-01-21 22:56:00,103.0,High
+P143,Registration,2026-01-31 07:41:00,Triage,2026-01-31 07:58:00,17.0,Low
+P143,Triage,2026-01-31 07:58:00,Doctor Consultation,2026-01-31 09:09:00,71.0,Medium
+P143,Doctor Consultation,2026-01-31 09:09:00,X-Ray,2026-01-31 11:07:00,118.0,High
+P143,X-Ray,2026-01-31 11:07:00,Treatment,2026-01-31 12:08:00,61.0,Medium
+P143,Treatment,2026-01-31 12:08:00,Discharge,2026-01-31 13:12:00,64.0,Medium
+P144,Registration,2026-01-06 05:55:00,Triage,2026-01-06 06:15:00,20.0,Low
+P144,Triage,2026-01-06 06:15:00,Doctor Consultation,2026-01-06 07:06:00,51.0,Low
+P144,Doctor Consultation,2026-01-06 07:06:00,Lab Test,2026-01-06 08:33:00,87.0,Medium
+P144,Lab Test,2026-01-06 08:33:00,Treatment,2026-01-06 09:01:00,28.0,Low
+P144,Treatment,2026-01-06 09:01:00,Discharge,2026-01-06 09:19:00,18.0,Low
+P145,Registration,2026-01-13 20:23:00,Triage,2026-01-13 21:21:00,58.0,Low
+P145,Triage,2026-01-13 21:21:00,Doctor Consultation,2026-01-13 22:47:00,86.0,Medium
+P145,Doctor Consultation,2026-01-13 22:47:00,Treatment,2026-01-14 00:04:00,77.0,Medium
+P145,Treatment,2026-01-14 00:04:00,Discharge,2026-01-14 00:51:00,47.0,Low
+P146,Registration,2026-01-24 08:11:00,Triage,2026-01-24 10:10:00,119.0,High
+P146,Triage,2026-01-24 10:10:00,Doctor Consultation,2026-01-24 11:43:00,93.0,High
+P146,Doctor Consultation,2026-01-24 11:43:00,X-Ray,2026-01-24 13:16:00,93.0,High
+P146,X-Ray,2026-01-24 13:16:00,Treatment,2026-01-24 15:04:00,108.0,High
+P146,Treatment,2026-01-24 15:04:00,Discharge,2026-01-24 16:24:00,80.0,Medium
+P147,Registration,2026-01-11 02:51:00,Triage,2026-01-11 04:46:00,115.0,High
+P147,Triage,2026-01-11 04:46:00,Doctor Consultation,2026-01-11 05:54:00,68.0,Medium
+P147,Doctor Consultation,2026-01-11 05:54:00,Lab Test,2026-01-11 06:55:00,61.0,Medium
+P147,Lab Test,2026-01-11 06:55:00,Treatment,2026-01-11 07:58:00,63.0,Medium
+P147,Treatment,2026-01-11 07:58:00,Discharge,2026-01-11 09:41:00,103.0,High
+P148,Registration,2026-01-15 13:23:00,Triage,2026-01-15 13:52:00,29.0,Low
+P148,Triage,2026-01-15 13:52:00,Doctor Consultation,2026-01-15 15:29:00,97.0,High
+P148,Doctor Consultation,2026-01-15 15:29:00,Lab Test,2026-01-15 16:39:00,70.0,Medium
+P148,Lab Test,2026-01-15 16:39:00,Treatment,2026-01-15 16:57:00,18.0,Low
+P148,Treatment,2026-01-15 16:57:00,Discharge,2026-01-15 17:18:00,21.0,Low
+P149,Registration,2026-01-05 05:14:00,Triage,2026-01-05 06:58:00,104.0,High
+P149,Triage,2026-01-05 06:58:00,Doctor Consultation,2026-01-05 07:55:00,57.0,Low
+P149,Doctor Consultation,2026-01-05 07:55:00,X-Ray,2026-01-05 09:48:00,113.0,High
+P149,X-Ray,2026-01-05 09:48:00,Triage,2026-01-05 10:14:00,26.0,Low
+P149,Triage,2026-01-05 10:14:00,Doctor Consultation,2026-01-05 11:35:00,81.0,Medium
+P149,Doctor Consultation,2026-01-05 11:35:00,Lab Test,2026-01-05 11:52:00,17.0,Low
+P149,Lab Test,2026-01-05 11:52:00,Treatment,2026-01-05 13:17:00,85.0,Medium
+P149,Treatment,2026-01-05 13:17:00,Discharge,2026-01-05 14:38:00,81.0,Medium
+P150,Registration,2026-01-16 08:03:00,Triage,2026-01-16 09:49:00,106.0,High
+P150,Triage,2026-01-16 09:49:00,Doctor Consultation,2026-01-16 10:53:00,64.0,Medium
+P150,Doctor Consultation,2026-01-16 10:53:00,X-Ray,2026-01-16 12:35:00,102.0,High
+P150,X-Ray,2026-01-16 12:35:00,Treatment,2026-01-16 12:51:00,16.0,Low
+P150,Treatment,2026-01-16 12:51:00,Discharge,2026-01-16 13:37:00,46.0,Low
+P151,Registration,2026-01-15 13:16:00,Triage,2026-01-15 14:50:00,94.0,High
+P151,Triage,2026-01-15 14:50:00,Doctor Consultation,2026-01-15 16:01:00,71.0,Medium
+P151,Doctor Consultation,2026-01-15 16:01:00,Lab Test,2026-01-15 16:39:00,38.0,Low
+P151,Lab Test,2026-01-15 16:39:00,Treatment,2026-01-15 18:37:00,118.0,High
+P151,Treatment,2026-01-15 18:37:00,Discharge,2026-01-15 19:00:00,23.0,Low
+P152,Registration,2026-01-26 15:35:00,Triage,2026-01-26 17:28:00,113.0,High
+P152,Triage,2026-01-26 17:28:00,Doctor Consultation,2026-01-26 18:32:00,64.0,Medium
+P152,Doctor Consultation,2026-01-26 18:32:00,Lab Test,2026-01-26 20:30:00,118.0,High
+P152,Lab Test,2026-01-26 20:30:00,Treatment,2026-01-26 21:51:00,81.0,Medium
+P152,Treatment,2026-01-26 21:51:00,Discharge,2026-01-26 23:39:00,108.0,High
+P153,Registration,2026-01-29 15:05:00,Triage,2026-01-29 16:39:00,94.0,High
+P153,Triage,2026-01-29 16:39:00,Doctor Consultation,2026-01-29 18:35:00,116.0,High
+P153,Doctor Consultation,2026-01-29 18:35:00,Lab Test,2026-01-29 20:13:00,98.0,High
+P153,Lab Test,2026-01-29 20:13:00,Treatment,2026-01-29 20:57:00,44.0,Low
+P153,Treatment,2026-01-29 20:57:00,Discharge,2026-01-29 21:10:00,13.0,Low
+P154,Registration,2026-01-13 18:29:00,Triage,2026-01-13 18:39:00,10.0,Low
+P154,Triage,2026-01-13 18:39:00,Doctor Consultation,2026-01-13 19:12:00,33.0,Low
+P154,Doctor Consultation,2026-01-13 19:12:00,X-Ray,2026-01-13 19:40:00,28.0,Low
+P154,X-Ray,2026-01-13 19:40:00,Lab Test,2026-01-13 21:02:00,82.0,Medium
+P154,Lab Test,2026-01-13 21:02:00,Treatment,2026-01-13 22:36:00,94.0,High
+P154,Treatment,2026-01-13 22:36:00,Discharge,2026-01-13 23:37:00,61.0,Medium
+P155,Registration,2026-01-07 18:57:00,Triage,2026-01-07 20:14:00,77.0,Medium
+P155,Triage,2026-01-07 20:14:00,Doctor Consultation,2026-01-07 20:51:00,37.0,Low
+P155,Doctor Consultation,2026-01-07 20:51:00,Lab Test,2026-01-07 21:49:00,58.0,Low
+P155,Lab Test,2026-01-07 21:49:00,Treatment,2026-01-07 22:52:00,63.0,Medium
+P155,Treatment,2026-01-07 22:52:00,Discharge,2026-01-08 00:00:00,68.0,Medium
+P156,Registration,2026-01-08 11:55:00,Triage,2026-01-08 13:17:00,82.0,Medium
+P156,Triage,2026-01-08 13:17:00,Doctor Consultation,2026-01-08 14:43:00,86.0,Medium
+P156,Doctor Consultation,2026-01-08 14:43:00,Treatment,2026-01-08 15:03:00,20.0,Low
+P156,Treatment,2026-01-08 15:03:00,Discharge,2026-01-08 15:19:00,16.0,Low
+P157,Registration,2026-01-08 11:56:00,Triage,2026-01-08 13:02:00,66.0,Medium
+P157,Triage,2026-01-08 13:02:00,Doctor Consultation,2026-01-08 14:36:00,94.0,High
+P157,Doctor Consultation,2026-01-08 14:36:00,X-Ray,2026-01-08 15:40:00,64.0,Medium
+P157,X-Ray,2026-01-08 15:40:00,Lab Test,2026-01-08 16:52:00,72.0,Medium
+P157,Lab Test,2026-01-08 16:52:00,Treatment,2026-01-08 18:19:00,87.0,Medium
+P157,Treatment,2026-01-08 18:19:00,Discharge,2026-01-08 19:25:00,66.0,Medium
+P158,Registration,2026-01-13 18:22:00,Triage,2026-01-13 19:16:00,54.0,Low
+P158,Triage,2026-01-13 19:16:00,Doctor Consultation,2026-01-13 20:21:00,65.0,Medium
+P158,Doctor Consultation,2026-01-13 20:21:00,X-Ray,2026-01-13 20:45:00,24.0,Low
+P158,X-Ray,2026-01-13 20:45:00,Triage,2026-01-13 21:31:00,46.0,Low
+P158,Triage,2026-01-13 21:31:00,Doctor Consultation,2026-01-13 23:07:00,96.0,High
+P158,Doctor Consultation,2026-01-13 23:07:00,Lab Test,2026-01-14 00:43:00,96.0,High
+P158,Lab Test,2026-01-14 00:43:00,Treatment,2026-01-14 02:08:00,85.0,Medium
+P158,Treatment,2026-01-14 02:08:00,Discharge,2026-01-14 03:20:00,72.0,Medium
+P159,Registration,2026-01-15 08:52:00,Triage,2026-01-15 10:18:00,86.0,Medium
+P159,Triage,2026-01-15 10:18:00,Doctor Consultation,2026-01-15 10:35:00,17.0,Low
+P159,Doctor Consultation,2026-01-15 10:35:00,X-Ray,2026-01-15 10:45:00,10.0,Low
+P159,X-Ray,2026-01-15 10:45:00,Triage,2026-01-15 11:21:00,36.0,Low
+P159,Triage,2026-01-15 11:21:00,Doctor Consultation,2026-01-15 12:09:00,48.0,Low
+P159,Doctor Consultation,2026-01-15 12:09:00,Lab Test,2026-01-15 12:46:00,37.0,Low
+P159,Lab Test,2026-01-15 12:46:00,Treatment,2026-01-15 14:34:00,108.0,High
+P159,Treatment,2026-01-15 14:34:00,Discharge,2026-01-15 15:01:00,27.0,Low
+P160,Registration,2026-01-12 23:05:00,Triage,2026-01-13 00:18:00,73.0,Medium
+P160,Triage,2026-01-13 00:18:00,Doctor Consultation,2026-01-13 02:03:00,105.0,High
+P160,Doctor Consultation,2026-01-13 02:03:00,X-Ray,2026-01-13 03:08:00,65.0,Medium
+P160,X-Ray,2026-01-13 03:08:00,Triage,2026-01-13 03:40:00,32.0,Low
+P160,Triage,2026-01-13 03:40:00,Doctor Consultation,2026-01-13 04:06:00,26.0,Low
+P160,Doctor Consultation,2026-01-13 04:06:00,Lab Test,2026-01-13 05:04:00,58.0,Low
+P160,Lab Test,2026-01-13 05:04:00,Treatment,2026-01-13 06:22:00,78.0,Medium
+P160,Treatment,2026-01-13 06:22:00,Discharge,2026-01-13 08:02:00,100.0,High
+P161,Registration,2026-01-24 02:25:00,Triage,2026-01-24 03:25:00,60.0,Medium
+P161,Triage,2026-01-24 03:25:00,Doctor Consultation,2026-01-24 05:25:00,120.0,High
+P161,Doctor Consultation,2026-01-24 05:25:00,Lab Test,2026-01-24 07:09:00,104.0,High
+P161,Lab Test,2026-01-24 07:09:00,Treatment,2026-01-24 07:24:00,15.0,Low
+P161,Treatment,2026-01-24 07:24:00,Discharge,2026-01-24 08:29:00,65.0,Medium
+P162,Registration,2026-01-22 06:10:00,Triage,2026-01-22 07:33:00,83.0,Medium
+P162,Triage,2026-01-22 07:33:00,Doctor Consultation,2026-01-22 08:34:00,61.0,Medium
+P162,Doctor Consultation,2026-01-22 08:34:00,Lab Test,2026-01-22 10:14:00,100.0,High
+P162,Lab Test,2026-01-22 10:14:00,Treatment,2026-01-22 11:45:00,91.0,High
+P162,Treatment,2026-01-22 11:45:00,Discharge,2026-01-22 12:48:00,63.0,Medium
+P163,Registration,2026-01-06 13:48:00,Triage,2026-01-06 15:17:00,89.0,Medium
+P163,Triage,2026-01-06 15:17:00,Doctor Consultation,2026-01-06 16:25:00,68.0,Medium
+P163,Doctor Consultation,2026-01-06 16:25:00,Lab Test,2026-01-06 18:21:00,116.0,High
+P163,Lab Test,2026-01-06 18:21:00,Treatment,2026-01-06 19:59:00,98.0,High
+P163,Treatment,2026-01-06 19:59:00,Discharge,2026-01-06 20:55:00,56.0,Low
+P164,Registration,2026-01-21 05:00:00,Triage,2026-01-21 06:17:00,77.0,Medium
+P164,Triage,2026-01-21 06:17:00,Doctor Consultation,2026-01-21 06:37:00,20.0,Low
+P164,Doctor Consultation,2026-01-21 06:37:00,X-Ray,2026-01-21 07:37:00,60.0,Medium
+P164,X-Ray,2026-01-21 07:37:00,Lab Test,2026-01-21 08:26:00,49.0,Low
+P164,Lab Test,2026-01-21 08:26:00,Treatment,2026-01-21 10:11:00,105.0,High
+P164,Treatment,2026-01-21 10:11:00,Discharge,2026-01-21 11:04:00,53.0,Low
+P165,Registration,2026-01-16 11:47:00,Triage,2026-01-16 13:04:00,77.0,Medium
+P165,Triage,2026-01-16 13:04:00,Doctor Consultation,2026-01-16 14:19:00,75.0,Medium
+P165,Doctor Consultation,2026-01-16 14:19:00,X-Ray,2026-01-16 14:53:00,34.0,Low
+P165,X-Ray,2026-01-16 14:53:00,Treatment,2026-01-16 16:42:00,109.0,High
+P165,Treatment,2026-01-16 16:42:00,Discharge,2026-01-16 17:36:00,54.0,Low
+P166,Registration,2026-01-30 16:59:00,Triage,2026-01-30 17:34:00,35.0,Low
+P166,Triage,2026-01-30 17:34:00,Doctor Consultation,2026-01-30 18:06:00,32.0,Low
+P166,Doctor Consultation,2026-01-30 18:06:00,X-Ray,2026-01-30 19:33:00,87.0,Medium
+P166,X-Ray,2026-01-30 19:33:00,Lab Test,2026-01-30 20:02:00,29.0,Low
+P166,Lab Test,2026-01-30 20:02:00,Treatment,2026-01-30 21:49:00,107.0,High
+P166,Treatment,2026-01-30 21:49:00,Discharge,2026-01-30 23:36:00,107.0,High
+P167,Registration,2026-01-04 18:18:00,Triage,2026-01-04 19:31:00,73.0,Medium
+P167,Triage,2026-01-04 19:31:00,Doctor Consultation,2026-01-04 20:40:00,69.0,Medium
+P167,Doctor Consultation,2026-01-04 20:40:00,X-Ray,2026-01-04 22:26:00,106.0,High
+P167,X-Ray,2026-01-04 22:26:00,Triage,2026-01-04 23:48:00,82.0,Medium
+P167,Triage,2026-01-04 23:48:00,Doctor Consultation,2026-01-05 01:35:00,107.0,High
+P167,Doctor Consultation,2026-01-05 01:35:00,Treatment,2026-01-05 02:59:00,84.0,Medium
+P167,Treatment,2026-01-05 02:59:00,Discharge,2026-01-05 04:06:00,67.0,Medium
+P168,Registration,2026-01-27 00:34:00,Triage,2026-01-27 02:04:00,90.0,High
+P168,Triage,2026-01-27 02:04:00,Doctor Consultation,2026-01-27 02:54:00,50.0,Low
+P168,Doctor Consultation,2026-01-27 02:54:00,Lab Test,2026-01-27 03:23:00,29.0,Low
+P168,Lab Test,2026-01-27 03:23:00,Treatment,2026-01-27 04:29:00,66.0,Medium
+P168,Treatment,2026-01-27 04:29:00,Discharge,2026-01-27 04:47:00,18.0,Low
+P169,Registration,2026-01-21 11:00:00,Triage,2026-01-21 11:55:00,55.0,Low
+P169,Triage,2026-01-21 11:55:00,Doctor Consultation,2026-01-21 13:09:00,74.0,Medium
+P169,Doctor Consultation,2026-01-21 13:09:00,Lab Test,2026-01-21 13:28:00,19.0,Low
+P169,Lab Test,2026-01-21 13:28:00,Treatment,2026-01-21 14:17:00,49.0,Low
+P169,Treatment,2026-01-21 14:17:00,Discharge,2026-01-21 15:26:00,69.0,Medium
+P170,Registration,2026-01-03 01:04:00,Triage,2026-01-03 01:23:00,19.0,Low
+P170,Triage,2026-01-03 01:23:00,Doctor Consultation,2026-01-03 02:55:00,92.0,High
+P170,Doctor Consultation,2026-01-03 02:55:00,X-Ray,2026-01-03 04:55:00,120.0,High
+P170,X-Ray,2026-01-03 04:55:00,Triage,2026-01-03 06:54:00,119.0,High
+P170,Triage,2026-01-03 06:54:00,Doctor Consultation,2026-01-03 07:15:00,21.0,Low
+P170,Doctor Consultation,2026-01-03 07:15:00,Treatment,2026-01-03 08:43:00,88.0,Medium
+P170,Treatment,2026-01-03 08:43:00,Discharge,2026-01-03 10:09:00,86.0,Medium
+P171,Registration,2026-01-18 19:57:00,Triage,2026-01-18 20:12:00,15.0,Low
+P171,Triage,2026-01-18 20:12:00,Doctor Consultation,2026-01-18 21:19:00,67.0,Medium
+P171,Doctor Consultation,2026-01-18 21:19:00,Treatment,2026-01-18 23:12:00,113.0,High
+P171,Treatment,2026-01-18 23:12:00,Discharge,2026-01-19 00:35:00,83.0,Medium
+P172,Registration,2026-01-09 21:36:00,Triage,2026-01-09 21:53:00,17.0,Low
+P172,Triage,2026-01-09 21:53:00,Doctor Consultation,2026-01-09 23:00:00,67.0,Medium
+P172,Doctor Consultation,2026-01-09 23:00:00,X-Ray,2026-01-09 23:23:00,23.0,Low
+P172,X-Ray,2026-01-09 23:23:00,Lab Test,2026-01-10 01:16:00,113.0,High
+P172,Lab Test,2026-01-10 01:16:00,Treatment,2026-01-10 03:13:00,117.0,High
+P172,Treatment,2026-01-10 03:13:00,Discharge,2026-01-10 04:06:00,53.0,Low
+P173,Registration,2026-01-05 04:06:00,Triage,2026-01-05 05:12:00,66.0,Medium
+P173,Triage,2026-01-05 05:12:00,Doctor Consultation,2026-01-05 06:18:00,66.0,Medium
+P173,Doctor Consultation,2026-01-05 06:18:00,X-Ray,2026-01-05 07:35:00,77.0,Medium
+P173,X-Ray,2026-01-05 07:35:00,Lab Test,2026-01-05 08:51:00,76.0,Medium
+P173,Lab Test,2026-01-05 08:51:00,Treatment,2026-01-05 10:19:00,88.0,Medium
+P173,Treatment,2026-01-05 10:19:00,Discharge,2026-01-05 10:49:00,30.0,Low
+P174,Registration,2026-01-18 07:15:00,Triage,2026-01-18 08:51:00,96.0,High
+P174,Triage,2026-01-18 08:51:00,Doctor Consultation,2026-01-18 10:17:00,86.0,Medium
+P174,Doctor Consultation,2026-01-18 10:17:00,X-Ray,2026-01-18 10:33:00,16.0,Low
+P174,X-Ray,2026-01-18 10:33:00,Treatment,2026-01-18 12:24:00,111.0,High
+P174,Treatment,2026-01-18 12:24:00,Discharge,2026-01-18 13:54:00,90.0,High
+P175,Registration,2026-01-16 13:31:00,Triage,2026-01-16 15:07:00,96.0,High
+P175,Triage,2026-01-16 15:07:00,Doctor Consultation,2026-01-16 16:06:00,59.0,Low
+P175,Doctor Consultation,2026-01-16 16:06:00,X-Ray,2026-01-16 16:52:00,46.0,Low
+P175,X-Ray,2026-01-16 16:52:00,Triage,2026-01-16 17:34:00,42.0,Low
+P175,Triage,2026-01-16 17:34:00,Doctor Consultation,2026-01-16 19:16:00,102.0,High
+P175,Doctor Consultation,2026-01-16 19:16:00,Lab Test,2026-01-16 21:15:00,119.0,High
+P175,Lab Test,2026-01-16 21:15:00,Treatment,2026-01-16 22:49:00,94.0,High
+P175,Treatment,2026-01-16 22:49:00,Discharge,2026-01-17 00:16:00,87.0,Medium
+P176,Registration,2026-01-16 12:07:00,Triage,2026-01-16 13:01:00,54.0,Low
+P176,Triage,2026-01-16 13:01:00,Doctor Consultation,2026-01-16 13:50:00,49.0,Low
+P176,Doctor Consultation,2026-01-16 13:50:00,X-Ray,2026-01-16 15:23:00,93.0,High
+P176,X-Ray,2026-01-16 15:23:00,Triage,2026-01-16 17:02:00,99.0,High
+P176,Triage,2026-01-16 17:02:00,Doctor Consultation,2026-01-16 18:36:00,94.0,High
+P176,Doctor Consultation,2026-01-16 18:36:00,Treatment,2026-01-16 19:36:00,60.0,Medium
+P176,Treatment,2026-01-16 19:36:00,Discharge,2026-01-16 20:02:00,26.0,Low
+P177,Registration,2026-01-05 04:32:00,Triage,2026-01-05 06:26:00,114.0,High
+P177,Triage,2026-01-05 06:26:00,Doctor Consultation,2026-01-05 06:52:00,26.0,Low
+P177,Doctor Consultation,2026-01-05 06:52:00,X-Ray,2026-01-05 08:27:00,95.0,High
+P177,X-Ray,2026-01-05 08:27:00,Treatment,2026-01-05 10:06:00,99.0,High
+P177,Treatment,2026-01-05 10:06:00,Discharge,2026-01-05 12:02:00,116.0,High
+P178,Registration,2026-01-25 06:57:00,Triage,2026-01-25 08:12:00,75.0,Medium
+P178,Triage,2026-01-25 08:12:00,Doctor Consultation,2026-01-25 09:08:00,56.0,Low
+P178,Doctor Consultation,2026-01-25 09:08:00,X-Ray,2026-01-25 09:20:00,12.0,Low
+P178,X-Ray,2026-01-25 09:20:00,Triage,2026-01-25 10:16:00,56.0,Low
+P178,Triage,2026-01-25 10:16:00,Doctor Consultation,2026-01-25 11:05:00,49.0,Low
+P178,Doctor Consultation,2026-01-25 11:05:00,Treatment,2026-01-25 11:38:00,33.0,Low
+P178,Treatment,2026-01-25 11:38:00,Discharge,2026-01-25 12:15:00,37.0,Low
+P179,Registration,2026-01-23 11:08:00,Triage,2026-01-23 11:37:00,29.0,Low
+P179,Triage,2026-01-23 11:37:00,Doctor Consultation,2026-01-23 11:56:00,19.0,Low
+P179,Doctor Consultation,2026-01-23 11:56:00,X-Ray,2026-01-23 12:43:00,47.0,Low
+P179,X-Ray,2026-01-23 12:43:00,Triage,2026-01-23 14:41:00,118.0,High
+P179,Triage,2026-01-23 14:41:00,Doctor Consultation,2026-01-23 16:31:00,110.0,High
+P179,Doctor Consultation,2026-01-23 16:31:00,Treatment,2026-01-23 16:53:00,22.0,Low
+P179,Treatment,2026-01-23 16:53:00,Discharge,2026-01-23 18:07:00,74.0,Medium
+P180,Registration,2026-01-25 21:34:00,Triage,2026-01-25 22:27:00,53.0,Low
+P180,Triage,2026-01-25 22:27:00,Doctor Consultation,2026-01-26 00:15:00,108.0,High
+P180,Doctor Consultation,2026-01-26 00:15:00,Lab Test,2026-01-26 01:44:00,89.0,Medium
+P180,Lab Test,2026-01-26 01:44:00,Treatment,2026-01-26 02:10:00,26.0,Low
+P180,Treatment,2026-01-26 02:10:00,Discharge,2026-01-26 03:36:00,86.0,Medium
+P181,Registration,2026-01-08 08:29:00,Triage,2026-01-08 10:17:00,108.0,High
+P181,Triage,2026-01-08 10:17:00,Doctor Consultation,2026-01-08 11:46:00,89.0,Medium
+P181,Doctor Consultation,2026-01-08 11:46:00,X-Ray,2026-01-08 13:39:00,113.0,High
+P181,X-Ray,2026-01-08 13:39:00,Triage,2026-01-08 14:10:00,31.0,Low
+P181,Triage,2026-01-08 14:10:00,Doctor Consultation,2026-01-08 15:52:00,102.0,High
+P181,Doctor Consultation,2026-01-08 15:52:00,Treatment,2026-01-08 16:58:00,66.0,Medium
+P181,Treatment,2026-01-08 16:58:00,Discharge,2026-01-08 17:13:00,15.0,Low
+P182,Registration,2026-01-17 21:54:00,Triage,2026-01-17 22:40:00,46.0,Low
+P182,Triage,2026-01-17 22:40:00,Doctor Consultation,2026-01-18 00:26:00,106.0,High
+P182,Doctor Consultation,2026-01-18 00:26:00,X-Ray,2026-01-18 02:11:00,105.0,High
+P182,X-Ray,2026-01-18 02:11:00,Lab Test,2026-01-18 04:01:00,110.0,High
+P182,Lab Test,2026-01-18 04:01:00,Treatment,2026-01-18 05:08:00,67.0,Medium
+P182,Treatment,2026-01-18 05:08:00,Discharge,2026-01-18 05:47:00,39.0,Low
+P183,Registration,2026-01-12 05:14:00,Triage,2026-01-12 07:10:00,116.0,High
+P183,Triage,2026-01-12 07:10:00,Doctor Consultation,2026-01-12 07:44:00,34.0,Low
+P183,Doctor Consultation,2026-01-12 07:44:00,Lab Test,2026-01-12 08:41:00,57.0,Low
+P183,Lab Test,2026-01-12 08:41:00,Treatment,2026-01-12 10:17:00,96.0,High
+P183,Treatment,2026-01-12 10:17:00,Discharge,2026-01-12 11:40:00,83.0,Medium
+P184,Registration,2026-01-22 08:16:00,Triage,2026-01-22 09:19:00,63.0,Medium
+P184,Triage,2026-01-22 09:19:00,Doctor Consultation,2026-01-22 09:49:00,30.0,Low
+P184,Doctor Consultation,2026-01-22 09:49:00,Lab Test,2026-01-22 11:43:00,114.0,High
+P184,Lab Test,2026-01-22 11:43:00,Treatment,2026-01-22 12:18:00,35.0,Low
+P184,Treatment,2026-01-22 12:18:00,Discharge,2026-01-22 14:10:00,112.0,High
+P185,Registration,2026-01-07 15:10:00,Triage,2026-01-07 16:07:00,57.0,Low
+P185,Triage,2026-01-07 16:07:00,Doctor Consultation,2026-01-07 17:27:00,80.0,Medium
+P185,Doctor Consultation,2026-01-07 17:27:00,X-Ray,2026-01-07 17:50:00,23.0,Low
+P185,X-Ray,2026-01-07 17:50:00,Lab Test,2026-01-07 19:31:00,101.0,High
+P185,Lab Test,2026-01-07 19:31:00,Treatment,2026-01-07 21:29:00,118.0,High
+P185,Treatment,2026-01-07 21:29:00,Discharge,2026-01-07 22:45:00,76.0,Medium
+P186,Registration,2026-01-07 00:10:00,Triage,2026-01-07 00:54:00,44.0,Low
+P186,Triage,2026-01-07 00:54:00,Doctor Consultation,2026-01-07 02:01:00,67.0,Medium
+P186,Doctor Consultation,2026-01-07 02:01:00,X-Ray,2026-01-07 03:16:00,75.0,Medium
+P186,X-Ray,2026-01-07 03:16:00,Triage,2026-01-07 03:44:00,28.0,Low
+P186,Triage,2026-01-07 03:44:00,Doctor Consultation,2026-01-07 05:40:00,116.0,High
+P186,Doctor Consultation,2026-01-07 05:40:00,Treatment,2026-01-07 06:45:00,65.0,Medium
+P186,Treatment,2026-01-07 06:45:00,Discharge,2026-01-07 07:06:00,21.0,Low
+P187,Registration,2026-01-21 20:45:00,Triage,2026-01-21 21:45:00,60.0,Medium
+P187,Triage,2026-01-21 21:45:00,Doctor Consultation,2026-01-21 22:59:00,74.0,Medium
+P187,Doctor Consultation,2026-01-21 22:59:00,Lab Test,2026-01-21 23:56:00,57.0,Low
+P187,Lab Test,2026-01-21 23:56:00,Treatment,2026-01-22 00:36:00,40.0,Low
+P187,Treatment,2026-01-22 00:36:00,Discharge,2026-01-22 01:35:00,59.0,Low
+P188,Registration,2026-01-18 09:30:00,Triage,2026-01-18 09:52:00,22.0,Low
+P188,Triage,2026-01-18 09:52:00,Doctor Consultation,2026-01-18 11:49:00,117.0,High
+P188,Doctor Consultation,2026-01-18 11:49:00,X-Ray,2026-01-18 13:30:00,101.0,High
+P188,X-Ray,2026-01-18 13:30:00,Triage,2026-01-18 15:03:00,93.0,High
+P188,Triage,2026-01-18 15:03:00,Doctor Consultation,2026-01-18 15:55:00,52.0,Low
+P188,Doctor Consultation,2026-01-18 15:55:00,Lab Test,2026-01-18 17:46:00,111.0,High
+P188,Lab Test,2026-01-18 17:46:00,Treatment,2026-01-18 18:14:00,28.0,Low
+P188,Treatment,2026-01-18 18:14:00,Discharge,2026-01-18 18:41:00,27.0,Low
+P189,Registration,2026-01-14 09:20:00,Triage,2026-01-14 11:07:00,107.0,High
+P189,Triage,2026-01-14 11:07:00,Doctor Consultation,2026-01-14 12:47:00,100.0,High
+P189,Doctor Consultation,2026-01-14 12:47:00,X-Ray,2026-01-14 13:57:00,70.0,Medium
+P189,X-Ray,2026-01-14 13:57:00,Treatment,2026-01-14 15:04:00,67.0,Medium
+P189,Treatment,2026-01-14 15:04:00,Discharge,2026-01-14 16:32:00,88.0,Medium
+P190,Registration,2026-01-04 22:32:00,Triage,2026-01-04 23:01:00,29.0,Low
+P190,Triage,2026-01-04 23:01:00,Doctor Consultation,2026-01-05 00:21:00,80.0,Medium
+P190,Doctor Consultation,2026-01-05 00:21:00,X-Ray,2026-01-05 02:04:00,103.0,High
+P190,X-Ray,2026-01-05 02:04:00,Triage,2026-01-05 03:31:00,87.0,Medium
+P190,Triage,2026-01-05 03:31:00,Doctor Consultation,2026-01-05 04:48:00,77.0,Medium
+P190,Doctor Consultation,2026-01-05 04:48:00,Lab Test,2026-01-05 05:52:00,64.0,Medium
+P190,Lab Test,2026-01-05 05:52:00,Treatment,2026-01-05 06:16:00,24.0,Low
+P190,Treatment,2026-01-05 06:16:00,Discharge,2026-01-05 08:05:00,109.0,High
+P191,Registration,2026-01-12 03:33:00,Triage,2026-01-12 05:24:00,111.0,High
+P191,Triage,2026-01-12 05:24:00,Doctor Consultation,2026-01-12 06:53:00,89.0,Medium
+P191,Doctor Consultation,2026-01-12 06:53:00,X-Ray,2026-01-12 08:01:00,68.0,Medium
+P191,X-Ray,2026-01-12 08:01:00,Lab Test,2026-01-12 08:19:00,18.0,Low
+P191,Lab Test,2026-01-12 08:19:00,Treatment,2026-01-12 08:43:00,24.0,Low
+P191,Treatment,2026-01-12 08:43:00,Discharge,2026-01-12 10:40:00,117.0,High
+P192,Registration,2026-01-28 11:47:00,Triage,2026-01-28 13:28:00,101.0,High
+P192,Triage,2026-01-28 13:28:00,Doctor Consultation,2026-01-28 13:56:00,28.0,Low
+P192,Doctor Consultation,2026-01-28 13:56:00,Lab Test,2026-01-28 14:43:00,47.0,Low
+P192,Lab Test,2026-01-28 14:43:00,Treatment,2026-01-28 15:47:00,64.0,Medium
+P192,Treatment,2026-01-28 15:47:00,Discharge,2026-01-28 15:57:00,10.0,Low
+P193,Registration,2026-01-17 09:22:00,Triage,2026-01-17 10:57:00,95.0,High
+P193,Triage,2026-01-17 10:57:00,Doctor Consultation,2026-01-17 12:32:00,95.0,High
+P193,Doctor Consultation,2026-01-17 12:32:00,X-Ray,2026-01-17 12:52:00,20.0,Low
+P193,X-Ray,2026-01-17 12:52:00,Triage,2026-01-17 14:09:00,77.0,Medium
+P193,Triage,2026-01-17 14:09:00,Doctor Consultation,2026-01-17 15:05:00,56.0,Low
+P193,Doctor Consultation,2026-01-17 15:05:00,Lab Test,2026-01-17 15:23:00,18.0,Low
+P193,Lab Test,2026-01-17 15:23:00,Treatment,2026-01-17 16:40:00,77.0,Medium
+P193,Treatment,2026-01-17 16:40:00,Discharge,2026-01-17 17:59:00,79.0,Medium
+P194,Registration,2026-01-24 10:27:00,Triage,2026-01-24 11:58:00,91.0,High
+P194,Triage,2026-01-24 11:58:00,Doctor Consultation,2026-01-24 12:57:00,59.0,Low
+P194,Doctor Consultation,2026-01-24 12:57:00,X-Ray,2026-01-24 13:54:00,57.0,Low
+P194,X-Ray,2026-01-24 13:54:00,Lab Test,2026-01-24 14:36:00,42.0,Low
+P194,Lab Test,2026-01-24 14:36:00,Treatment,2026-01-24 16:21:00,105.0,High
+P194,Treatment,2026-01-24 16:21:00,Discharge,2026-01-24 16:33:00,12.0,Low
+P195,Registration,2026-01-04 09:47:00,Triage,2026-01-04 11:35:00,108.0,High
+P195,Triage,2026-01-04 11:35:00,Doctor Consultation,2026-01-04 12:59:00,84.0,Medium
+P195,Doctor Consultation,2026-01-04 12:59:00,Treatment,2026-01-04 14:43:00,104.0,High
+P195,Treatment,2026-01-04 14:43:00,Discharge,2026-01-04 16:29:00,106.0,High
+P196,Registration,2026-01-07 09:43:00,Triage,2026-01-07 11:37:00,114.0,High
+P196,Triage,2026-01-07 11:37:00,Doctor Consultation,2026-01-07 13:09:00,92.0,High
+P196,Doctor Consultation,2026-01-07 13:09:00,X-Ray,2026-01-07 13:41:00,32.0,Low
+P196,X-Ray,2026-01-07 13:41:00,Triage,2026-01-07 15:37:00,116.0,High
+P196,Triage,2026-01-07 15:37:00,Doctor Consultation,2026-01-07 17:26:00,109.0,High
+P196,Doctor Consultation,2026-01-07 17:26:00,Lab Test,2026-01-07 19:03:00,97.0,High
+P196,Lab Test,2026-01-07 19:03:00,Treatment,2026-01-07 20:12:00,69.0,Medium
+P196,Treatment,2026-01-07 20:12:00,Discharge,2026-01-07 21:51:00,99.0,High
+P197,Registration,2026-01-30 02:01:00,Triage,2026-01-30 03:42:00,101.0,High
+P197,Triage,2026-01-30 03:42:00,Doctor Consultation,2026-01-30 05:31:00,109.0,High
+P197,Doctor Consultation,2026-01-30 05:31:00,X-Ray,2026-01-30 06:39:00,68.0,Medium
+P197,X-Ray,2026-01-30 06:39:00,Triage,2026-01-30 06:53:00,14.0,Low
+P197,Triage,2026-01-30 06:53:00,Doctor Consultation,2026-01-30 07:40:00,47.0,Low
+P197,Doctor Consultation,2026-01-30 07:40:00,Lab Test,2026-01-30 08:15:00,35.0,Low
+P197,Lab Test,2026-01-30 08:15:00,Treatment,2026-01-30 08:30:00,15.0,Low
+P197,Treatment,2026-01-30 08:30:00,Discharge,2026-01-30 10:21:00,111.0,High
+P198,Registration,2026-01-03 05:46:00,Triage,2026-01-03 07:40:00,114.0,High
+P198,Triage,2026-01-03 07:40:00,Doctor Consultation,2026-01-03 08:59:00,79.0,Medium
+P198,Doctor Consultation,2026-01-03 08:59:00,X-Ray,2026-01-03 10:09:00,70.0,Medium
+P198,X-Ray,2026-01-03 10:09:00,Lab Test,2026-01-03 10:51:00,42.0,Low
+P198,Lab Test,2026-01-03 10:51:00,Treatment,2026-01-03 11:05:00,14.0,Low
+P198,Treatment,2026-01-03 11:05:00,Discharge,2026-01-03 12:51:00,106.0,High
+P199,Registration,2026-01-10 00:44:00,Triage,2026-01-10 01:00:00,16.0,Low
+P199,Triage,2026-01-10 01:00:00,Doctor Consultation,2026-01-10 03:00:00,120.0,High
+P199,Doctor Consultation,2026-01-10 03:00:00,X-Ray,2026-01-10 04:33:00,93.0,High
+P199,X-Ray,2026-01-10 04:33:00,Triage,2026-01-10 05:25:00,52.0,Low
+P199,Triage,2026-01-10 05:25:00,Doctor Consultation,2026-01-10 06:09:00,44.0,Low
+P199,Doctor Consultation,2026-01-10 06:09:00,Treatment,2026-01-10 06:34:00,25.0,Low
+P199,Treatment,2026-01-10 06:34:00,Discharge,2026-01-10 08:26:00,112.0,High
+P200,Registration,2026-01-21 05:16:00,Triage,2026-01-21 06:15:00,59.0,Low
+P200,Triage,2026-01-21 06:15:00,Doctor Consultation,2026-01-21 07:08:00,53.0,Low
+P200,Doctor Consultation,2026-01-21 07:08:00,Treatment,2026-01-21 07:41:00,33.0,Low
+P200,Treatment,2026-01-21 07:41:00,Discharge,2026-01-21 08:54:00,73.0,Medium
