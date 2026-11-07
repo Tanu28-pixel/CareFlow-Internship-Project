@@ -1,0 +1,201 @@
+Case_ID,Repeated_Activity_Types,Total_Repeated_Events,Repeated_Activities,Deviation_Status
+P001,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P002,0,0,None,No Repeated Activity
+P003,0,0,None,No Repeated Activity
+P004,0,0,None,No Repeated Activity
+P005,0,0,None,No Repeated Activity
+P006,0,0,None,No Repeated Activity
+P007,0,0,None,No Repeated Activity
+P008,0,0,None,No Repeated Activity
+P009,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P010,0,0,None,No Repeated Activity
+P011,0,0,None,No Repeated Activity
+P012,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P013,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P014,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P015,0,0,None,No Repeated Activity
+P016,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P017,0,0,None,No Repeated Activity
+P018,0,0,None,No Repeated Activity
+P019,0,0,None,No Repeated Activity
+P020,0,0,None,No Repeated Activity
+P021,0,0,None,No Repeated Activity
+P022,0,0,None,No Repeated Activity
+P023,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P024,0,0,None,No Repeated Activity
+P025,0,0,None,No Repeated Activity
+P026,0,0,None,No Repeated Activity
+P027,0,0,None,No Repeated Activity
+P028,0,0,None,No Repeated Activity
+P029,0,0,None,No Repeated Activity
+P030,0,0,None,No Repeated Activity
+P031,0,0,None,No Repeated Activity
+P032,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P033,0,0,None,No Repeated Activity
+P034,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P035,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P036,0,0,None,No Repeated Activity
+P037,0,0,None,No Repeated Activity
+P038,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P039,0,0,None,No Repeated Activity
+P040,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P041,0,0,None,No Repeated Activity
+P042,0,0,None,No Repeated Activity
+P043,0,0,None,No Repeated Activity
+P044,0,0,None,No Repeated Activity
+P045,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P046,0,0,None,No Repeated Activity
+P047,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P048,0,0,None,No Repeated Activity
+P049,0,0,None,No Repeated Activity
+P050,0,0,None,No Repeated Activity
+P051,0,0,None,No Repeated Activity
+P052,0,0,None,No Repeated Activity
+P053,0,0,None,No Repeated Activity
+P054,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P055,0,0,None,No Repeated Activity
+P056,0,0,None,No Repeated Activity
+P057,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P058,0,0,None,No Repeated Activity
+P059,0,0,None,No Repeated Activity
+P060,0,0,None,No Repeated Activity
+P061,0,0,None,No Repeated Activity
+P062,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P063,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P064,0,0,None,No Repeated Activity
+P065,0,0,None,No Repeated Activity
+P066,0,0,None,No Repeated Activity
+P067,0,0,None,No Repeated Activity
+P068,0,0,None,No Repeated Activity
+P069,0,0,None,No Repeated Activity
+P070,0,0,None,No Repeated Activity
+P071,0,0,None,No Repeated Activity
+P072,0,0,None,No Repeated Activity
+P073,0,0,None,No Repeated Activity
+P074,0,0,None,No Repeated Activity
+P075,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P076,0,0,None,No Repeated Activity
+P077,0,0,None,No Repeated Activity
+P078,0,0,None,No Repeated Activity
+P079,0,0,None,No Repeated Activity
+P080,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P081,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P082,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P083,0,0,None,No Repeated Activity
+P084,0,0,None,No Repeated Activity
+P085,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P086,0,0,None,No Repeated Activity
+P087,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P088,0,0,None,No Repeated Activity
+P089,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P090,0,0,None,No Repeated Activity
+P091,0,0,None,No Repeated Activity
+P092,0,0,None,No Repeated Activity
+P093,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P094,0,0,None,No Repeated Activity
+P095,0,0,None,No Repeated Activity
+P096,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P097,0,0,None,No Repeated Activity
+P098,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P099,0,0,None,No Repeated Activity
+P100,0,0,None,No Repeated Activity
+P101,0,0,None,No Repeated Activity
+P102,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P103,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P104,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P105,0,0,None,No Repeated Activity
+P106,0,0,None,No Repeated Activity
+P107,0,0,None,No Repeated Activity
+P108,0,0,None,No Repeated Activity
+P109,0,0,None,No Repeated Activity
+P110,0,0,None,No Repeated Activity
+P111,0,0,None,No Repeated Activity
+P112,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P113,0,0,None,No Repeated Activity
+P114,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P115,0,0,None,No Repeated Activity
+P116,0,0,None,No Repeated Activity
+P117,0,0,None,No Repeated Activity
+P118,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P119,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P120,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P121,0,0,None,No Repeated Activity
+P122,0,0,None,No Repeated Activity
+P123,0,0,None,No Repeated Activity
+P124,0,0,None,No Repeated Activity
+P125,0,0,None,No Repeated Activity
+P126,0,0,None,No Repeated Activity
+P127,0,0,None,No Repeated Activity
+P128,0,0,None,No Repeated Activity
+P129,0,0,None,No Repeated Activity
+P130,0,0,None,No Repeated Activity
+P131,0,0,None,No Repeated Activity
+P132,0,0,None,No Repeated Activity
+P133,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P134,0,0,None,No Repeated Activity
+P135,0,0,None,No Repeated Activity
+P136,0,0,None,No Repeated Activity
+P137,0,0,None,No Repeated Activity
+P138,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P139,0,0,None,No Repeated Activity
+P140,0,0,None,No Repeated Activity
+P141,0,0,None,No Repeated Activity
+P142,0,0,None,No Repeated Activity
+P143,0,0,None,No Repeated Activity
+P144,0,0,None,No Repeated Activity
+P145,0,0,None,No Repeated Activity
+P146,0,0,None,No Repeated Activity
+P147,0,0,None,No Repeated Activity
+P148,0,0,None,No Repeated Activity
+P149,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P150,0,0,None,No Repeated Activity
+P151,0,0,None,No Repeated Activity
+P152,0,0,None,No Repeated Activity
+P153,0,0,None,No Repeated Activity
+P154,0,0,None,No Repeated Activity
+P155,0,0,None,No Repeated Activity
+P156,0,0,None,No Repeated Activity
+P157,0,0,None,No Repeated Activity
+P158,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P159,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P160,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P161,0,0,None,No Repeated Activity
+P162,0,0,None,No Repeated Activity
+P163,0,0,None,No Repeated Activity
+P164,0,0,None,No Repeated Activity
+P165,0,0,None,No Repeated Activity
+P166,0,0,None,No Repeated Activity
+P167,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P168,0,0,None,No Repeated Activity
+P169,0,0,None,No Repeated Activity
+P170,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P171,0,0,None,No Repeated Activity
+P172,0,0,None,No Repeated Activity
+P173,0,0,None,No Repeated Activity
+P174,0,0,None,No Repeated Activity
+P175,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P176,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P177,0,0,None,No Repeated Activity
+P178,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P179,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P180,0,0,None,No Repeated Activity
+P181,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P182,0,0,None,No Repeated Activity
+P183,0,0,None,No Repeated Activity
+P184,0,0,None,No Repeated Activity
+P185,0,0,None,No Repeated Activity
+P186,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P187,0,0,None,No Repeated Activity
+P188,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P189,0,0,None,No Repeated Activity
+P190,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P191,0,0,None,No Repeated Activity
+P192,0,0,None,No Repeated Activity
+P193,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P194,0,0,None,No Repeated Activity
+P195,0,0,None,No Repeated Activity
+P196,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P197,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P198,0,0,None,No Repeated Activity
+P199,2,2,"Doctor Consultation, Triage",Repeated Activity Detected
+P200,0,0,None,No Repeated Activity
